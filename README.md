@@ -2,7 +2,8 @@
 
 We are developing our own Coin Registry file format, which contains all the information about the pools in which tokens
 can be exchanged.
-an example of a JSON file you can see
+
+An example of a JSON file you can see
 here [`example.json`](https://github.com/pontem-network/coins-registry/blob/main/example.json)
 
 ## File description
