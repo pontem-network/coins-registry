@@ -1,6 +1,6 @@
 # LiquidSwap Coin Registry
 
-We are developing our own Coin Registry file format, which contains all the information about the pools in which tokens
+We are developing our own Coin Registry file format for [LiquidSwap](https://liquidswap.com), which contains all the information about the pools in which tokens
 can be exchanged.
 
 An example of a JSON file you can see
@@ -32,3 +32,12 @@ here [`example.json`](https://github.com/pontem-network/coins-registry/blob/main
 | `pools[].tokens[][1]` | Second token                                          | string, required, example: `0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::CoinsExtended::USDC`                                                                                                                                                                     |
 | `pools[].tokens[][2]` | LP token                                              | string, required, example: `0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::LP::LP<0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::CoinsExtended::ETH, 0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::CoinsExtended::USDC>` |
 
+## Contribution
+
+You are welcome to fork the current repository and do an PR. 
+
+The current repository maintaining under MIT license.
+
+## License 
+
+MIT.
