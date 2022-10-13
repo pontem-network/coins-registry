@@ -1,44 +1,44 @@
 [
   {
-    name: 'APT Test Coin',
-    chainId: 97,
-    decimals: 8,
-    symbol: 'APT',
-    type: '0x1::aptos_coin::AptosCoin'
+    "name": "APT Test Coin",
+    "chainId": 97,
+    "decimals": 8,
+    "symbol": "APT",
+    "type": "0x1::aptos_coin::AptosCoin"
   },
   {
-    name: 'Bitcoin',
-    chainId: 97,
-    symbol: 'BTC',
-    decimals: 8,
-    type: '0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC'
+    "name": "Bitcoin",
+    "chainId": 97,
+    "symbol": "BTC",
+    "decimals": 8,
+    "type": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC"
   },
   {
-    name: 'Tether USD',
-    chainId: 97,
-    symbol: 'USDT',
-    decimals: 6,
-    type: '0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT'
+    "name": "Tether USD",
+    "chainId": 97,
+    "symbol": "USDT",
+    "decimals": 6,
+    "type": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT"
   },
   {
-    name: 'USD Coin',
-    chainId: 97,
-    decimals: 6,
-    symbol: 'USDC',
-    type: '0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::USDC'
+    "name": "USD Coin",
+    "chainId": 97,
+    "decimals": 6,
+    "symbol": "USDC",
+    "type": "0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::USDC"
   },
   {
-    name: 'BlueMove Coin',
-    chainId: 97,
-    decimals: 8,
-    symbol: 'MOVE',
-    type: '0xe4497a32bf4a9fd5601b27661aa0b933a923191bf403bd08669ab2468d43b379::move_coin::MoveCoin'
+    "name": "BlueMove Coin",
+    "chainId": 97,
+    "decimals": 8,
+    "symbol": "MOVE",
+    "type": "0xe4497a32bf4a9fd5601b27661aa0b933a923191bf403bd08669ab2468d43b379::move_coin::MoveCoin"
   },
   {
-    name: 'Wrapped Ether',
-    chainId: 97,
-    decimals: 6,
-    symbol: 'WETH',
-    type: '0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::WETH',
-  },
+    "name": "Wrapped Ether",
+    "chainId": 97,
+    "decimals": 6,
+    "symbol": "WETH",
+    "type": "0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::WETH"
+  }
 ]
