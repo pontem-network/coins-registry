@@ -44,5 +44,13 @@
     "coinY":
       "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T", 
     "curve": "stable"
+  },
+  {
+    "coinX":
+      "0xc0ba6328b5c6f7c7c60bc63dffbb254dd489981f2fb7f4f40a2fb86619d4e57c::shitcoin::SHIT", 
+    "coinY":
+      "0x1::aptos_coin::AptosCoin", 
+    "curve": "uncorrelated"
   }
+  
 ]

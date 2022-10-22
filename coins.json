@@ -62,5 +62,14 @@
     "decimals": 6,
     "symbol": "WETH",
     "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH"
+  },
+  {
+    "source": "layerzero",
+    "chainId": 1,
+    "name": "Shit Swap",
+    "decimals": 4,
+    "symbol": "SHIT",
+    "image": "https://i.ibb.co/PQqmt6X/shit.png",
+    "type": "0xc0ba6328b5c6f7c7c60bc63dffbb254dd489981f2fb7f4f40a2fb86619d4e57c::shitcoin::SHIT"
   }
 ]
