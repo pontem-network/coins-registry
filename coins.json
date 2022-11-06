@@ -164,10 +164,21 @@
   {
     "source": "aptoge",
     "chainId": 1,
+    "caution": true,
     "name": "Aptoge",
     "decimals": 6,
     "symbol": "APTOGE",
     "type": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge",
+    "order": 1000
+  },
+  {
+    "source": "partners",
+    "chainId": 1,
+    "caution": true,
+    "name": "Aptos Shiba",
+    "decimals": 6,
+    "symbol": "APTSHIBA",
+    "type": "0x2778b277644d375721766abfff0df2adca795f6cbae9f02ff1c95ce9adb6ee28::aptos_shiba_coin::AptosShibaCoin",
     "order": 1000
   },
   {
