@@ -2,7 +2,7 @@
   {
     "source": "aptos",
     "name": "Aptos Coin",
-    "chainId": 4,
+    "chainId": 2,
     "decimals": 8,
     "symbol": "APT",
     "type": "0x1::aptos_coin::AptosCoin",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Bitcoin",
-    "chainId": 4,
+    "chainId": 2,
     "symbol": "BTC",
     "decimals": 8,
     "source": "pontem",
@@ -20,7 +20,7 @@
   },
   {
     "name": "Tether USD",
-    "chainId": 4,
+    "chainId": 2,
     "symbol": "USDT",
     "decimals": 6,
     "source": "pontem",
@@ -29,7 +29,7 @@
   },
   {
     "name": "Ethereum",
-    "chainId": 4,
+    "chainId": 2,
     "symbol": "ETH",
     "decimals": 8,
     "source": "pontem",
@@ -38,7 +38,7 @@
   },
   {
     "name": "USD Coin",
-    "chainId": 4,
+    "chainId": 2,
     "decimals": 6,
     "symbol": "USDC",
     "source": "pontem",
@@ -47,7 +47,7 @@
   },
   {
     "name": "DAI",
-    "chainId": 4,
+    "chainId": 2,
     "decimals": 6,
     "symbol": "DAI",
     "source": "pontem",
