@@ -30,13 +30,13 @@ There is a coins list in coins.json. One coin can be presented as follows:
 
 * ```aptos``` - for the native Aptos Coin.
 * ```partners``` - for other coins.
-* ```celar``` - for coins provided from Celar.
-* ```layerzero``` - for coins provided from Layer Zero.
-* ```wormhole``` - for coins provided from Wormhole.
+* ```celer``` - for coins provided by Celer.
+* ```layerzero``` - for coins provided by Layer Zero.
+* ```wormhole``` - for coins provided by Wormhole.
 
 ```name``` - coins' full name. We update this value by a request to the node. It is used on Picture 1 as a bottom string after the dot (on the picture it is Bitcoin).
 
-```chainId``` - for mainnet value is 1.
+```chainId``` - for mainnet value is 1. Currently, testnet coins stored in the ```testnet``` branch of this repo.
 
 ```decimals``` - how many decimals supports your coin. We update this value by a request to the node.
 
