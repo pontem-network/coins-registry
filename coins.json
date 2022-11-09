@@ -15,7 +15,8 @@
     "symbol": "BTC",
     "decimals": 8,
     "source": "pontem",
-    "type": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC"
+    "type": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
+    "order": 10
   },
   {
     "name": "Tether USD",
@@ -23,7 +24,8 @@
     "symbol": "USDT",
     "decimals": 6,
     "source": "pontem",
-    "type": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT"
+    "type": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
+    "order": 20
   },
   {
     "name": "Ethereum",
@@ -31,7 +33,8 @@
     "symbol": "ETH",
     "decimals": 8,
     "source": "pontem",
-    "type": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::ETH"
+    "type": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::ETH",
+    "order": 30
   },
   {
     "name": "USD Coin",
@@ -40,6 +43,7 @@
     "symbol": "USDC",
     "source": "pontem",
     "type": "0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::USDC",
+    "order": 40
   },
   {
     "name": "DAI",
@@ -47,6 +51,7 @@
     "decimals": 6,
     "symbol": "DAI",
     "source": "pontem",
-    "type": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::DAI"
+    "type": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::DAI",
+    "order": 50
   }
 ]
