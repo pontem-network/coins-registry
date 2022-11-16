@@ -7,6 +7,8 @@ Currently, we use two files:
 - coins.json
 - pools.json
 
+and provide registries for mainnet and testnet.
+
 ## Coins Data Structure
 
 There is a coins list in coins.json. One coin can be presented as follows:
@@ -92,6 +94,14 @@ You are welcome to fork the current repository and do a PR.
 
 The current repository maintaining under MIT license.
 
+
+## Tests
+
+Check formatting with 
+
+```shell
+yarn test
+```
 
 ## License 
 
