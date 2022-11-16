@@ -1,4 +1,4 @@
-# LiquidSwap Coin Registry
+# LiquidSwap Coins & Pools Registry
 
 We are developing our own Coin Registry file formats for [LiquidSwap](https://liquidswap.com), which contains all the information about coins and pools in which coins can be exchanged.
 
