@@ -18,6 +18,12 @@
     "networkId": 1
   },
   {
+    "coinX": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
+    "coinY": "0x881ac202b1f1e6ad4efcff7a1d0579411533f2502417a19211cfc49751ddb5f4::coin::MOJO",
+    "curve": "uncorrelated",
+    "networkId": 1
+  },
+  {
     "coinX": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
     "coinY": "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T",
     "curve": "uncorrelated",
