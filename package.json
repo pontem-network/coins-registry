@@ -1,0 +1,24 @@
+{
+  "name": "@pontem/coins-registry",
+  "version": "1.0.1",
+  "description": "Liquidswap coins & pools registry",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pontem-network/coins-registry.git"
+  },
+  "keywords": [
+    "coins",
+    "pools",
+    "liquidswap"
+  ],
+  "author": "Pontem Network",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pontem-network/coins-registry/issues"
+  },
+  "homepage": "https://github.com/pontem-network/coins-registry#readme"
+}
