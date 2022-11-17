@@ -106,5 +106,11 @@
     "coinY": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
     "curve": "stable",
     "networkId": 1
+  },
+  {
+    "coinX": "0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "uncorrelated",
+    "networkId": 1
   }
 ]
