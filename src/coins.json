@@ -221,6 +221,7 @@
   {
     "source": "partners",
     "chainId": 1,
+    "caution": true,
     "name": "Doglaika Coin",
     "decimals": 8,
     "symbol": "DLC",
