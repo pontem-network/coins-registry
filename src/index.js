@@ -1,3 +1,5 @@
+Object.defineProperty(exports, "__esModule", { value: true });
+
 const coins = require('./coins.json');
 const pools = require('./pools.json');
 
@@ -9,4 +11,4 @@ const coinsRegistry = {
 	pools,
 };
 
-export default coinsRegistry;
+exports.coinsRegistry = coinsRegistry;
