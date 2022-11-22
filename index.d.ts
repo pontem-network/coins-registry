@@ -32,9 +32,14 @@ export type Pool = {
 	networkId: number;
 };
 
+export type NetworkType = 'mainnet' | 'testnet';
+
 export type CoinsRegister = {
 	coins: Coin[];
 	pools: Pool[];
+
+	getCoinsFor: (NetworkType) => Coin[];
+	getPoolsFor: (NetworkType) => Pool[];
 };
 
 export = register;
