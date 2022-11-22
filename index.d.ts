@@ -39,4 +39,4 @@ export type CoinsRegister = {
 
 export = register;
 
-declare const register: ICoinsRegister;
+declare const register: CoinsRegister;
