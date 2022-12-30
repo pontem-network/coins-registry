@@ -1,3 +1,12 @@
+<a name="readme-top"></a>
+
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 # LiquidSwap Coins & Pools Registry
 
 We are developing our own Coin Registry file formats for [LiquidSwap](https://liquidswap.com), which contains all the information about coins and pools in which coins can be exchanged.
@@ -106,3 +115,16 @@ yarn test
 ## License 
 
 MIT.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/pontem-network/coins-registry.svg?style=for-the-badge
+[contributors-url]: https://github.com/pontem-network/coins-registry/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/pontem-network/coins-registry.svg?style=for-the-badge
+[forks-url]: https://github.com/pontem-network/coins-registry/network/members
+[stars-shield]: https://img.shields.io/github/stars/pontem-network/coins-registry.svg?style=for-the-badge
+[stars-url]: https://github.com/pontem-network/coins-registry/stargazers
+[issues-shield]: https://img.shields.io/github/issues/pontem-network/coins-registry.svg?style=for-the-badge
+[issues-url]: https://github.com/pontem-network/coins-registry/issues
+[license-shield]: https://img.shields.io/github/license/pontem-network/coins-registry.svg?style=for-the-badge
+[license-url]: https://github.com/pontem-network/coins-registry/blob/main/LICENSE
