@@ -178,7 +178,7 @@
     "decimals": 8,
     "symbol": "ABEL",
     "type": "0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin",
-    "caution": true,
+    "caution": false,
     "order": 1000
   },
   {
