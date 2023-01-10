@@ -248,6 +248,16 @@
     "order": 1000
   },
   {
+    "source": "partners",
+    "chainId": 1,
+    "caution": true,
+    "name": "Doglaika Coin",
+    "decimals": 8,
+    "symbol": "DLC",
+    "type": "0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC",
+    "order": 1000
+  },
+  {
     "source": "aptos",
     "name": "Aptos Coin",
     "chainId": 2,
