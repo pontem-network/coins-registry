@@ -258,6 +258,16 @@
     "order": 1000
   },
   {
+    "source": "partners",
+    "chainId": 1,
+    "caution": false,
+    "name": "The People",
+    "decimals": 6,
+    "symbol": "People",
+    "type": "0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People",
+    "order": 1000
+  },
+  {
     "source": "aptos",
     "name": "Aptos Coin",
     "chainId": 2,
