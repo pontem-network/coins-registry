@@ -147,6 +147,15 @@
   {
     "source": "partners",
     "chainId": 1,
+    "name": "AptSwap Governance Token",
+    "decimals": 8,
+    "symbol": "AptSwap",
+    "type": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::AptSwap::AptSwapGovernance",
+    "order": 1000
+  },
+  {
+    "source": "partners",
+    "chainId": 1,
     "name": "Ditto Staked Aptos",
     "decimals": 8,
     "symbol": "stAPT",
