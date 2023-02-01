@@ -203,7 +203,7 @@
   {
     "source": "partners",
     "chainId": 1,
-    "caution": true,
+    "caution": false,
     "name": "Aptoge",
     "decimals": 6,
     "symbol": "APTOGE",
