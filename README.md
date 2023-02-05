@@ -11,12 +11,14 @@
 
 We are developing our own Coin Registry file formats for [LiquidSwap](https://liquidswap.com), which contains all the information about coins and pools in which coins can be exchanged.
 
-Currently, we use two files: 
+Currently, we use two files for data:
 
 - coins.json
 - pools.json
 
-and provide registries for mainnet and testnet.
+And an [index.js](src/index.js) file for easier usage of coins-registry in other projects. Through the interface, it is easy to get tokens or pools lists for the selected chain type. It provides two methods: `getCoinsFor` and `getPoolsFor`. Each of these methods requires the network type as an argument. Possible values for network types: `mainnet` and `testnet`.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Coins Data Structure
 
@@ -70,6 +72,8 @@ There is a coins list in coins.json. One coin can be presented as follows:
 1000 other coins
 ````
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Pools Data Structure
 
 
@@ -96,6 +100,7 @@ There is a coins list in coins.json. One coin can be presented as follows:
 * uncorrelated
 * selectable
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contribution
 
@@ -103,6 +108,7 @@ You are welcome to fork the current repository and do a PR.
 
 The current repository maintaining under MIT license.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Tests
 
@@ -112,9 +118,14 @@ Check formatting with
 yarn test
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## License 
 
-MIT.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
