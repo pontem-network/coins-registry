@@ -165,6 +165,16 @@
   {
     "source": "partners",
     "chainId": 1,
+    "name": "BlueMove",
+    "decimals": 8,
+    "symbol": "MOVE",
+    "type": "0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin",
+    "caution": false,
+    "order": 1000
+  },
+  {
+    "source": "partners",
+    "chainId": 1,
     "name": "Mojito",
     "decimals": 8,
     "symbol": "MOJO",
