@@ -28,7 +28,7 @@ export type Coin = {
 export type Pool = {
 	coinX: string;
 	coinY: string;
-	curve: 'uncorrelated' | 'stable';
+	curve: 'unstable' | 'stable';
 	networkId: number;
 };
 

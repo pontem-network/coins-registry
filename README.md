@@ -81,7 +81,7 @@ There is a coins list in coins.json. One coin can be presented as follows:
 {
     "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
     "coinY": "0x1::aptos_coin::AptosCoin",
-    "curve": "uncorrelated",
+    "curve": "unstable",
     "networkId": 1
 }
 ```
@@ -97,7 +97,7 @@ There is a coins list in coins.json. One coin can be presented as follows:
 
 ```curve``` - to strictly point curve type use the following values: 
 * stable
-* uncorrelated
+* unstable
 * selectable
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
