@@ -15,8 +15,9 @@ Currently, we use two files for data:
 
 - coins.json
 - pools.json
+- staking.json
 
-And an [index.js](src/index.js) file for easier usage of coins-registry in other projects. Through the interface, it is easy to get tokens or pools lists for the selected chain type. It provides two methods: `getCoinsFor` and `getPoolsFor`. Each of these methods requires the network type as an argument. Possible values for network types: `mainnet` and `testnet`.
+And an [index.js](src/index.js) file for easier usage of coins-registry in other projects. Through the interface, it is easy to get tokens or pools lists for the selected chain type. It provides two methods: `getCoinsFor`, `getPoolsFor` and `getStakingPoolsFor`. Each of these methods requires the network type as an argument. Possible values for network types: `mainnet` and `testnet`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
