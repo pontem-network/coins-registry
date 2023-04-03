@@ -114,6 +114,12 @@
     "networkId": 1
   },
   {
+    "coinX": "0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "uncorrelated",
+    "networkId": 1
+  },
+  {
     "coinX": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
