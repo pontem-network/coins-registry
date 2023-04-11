@@ -147,6 +147,15 @@
   {
     "source": "partners",
     "chainId": 1,
+    "name": "Thala Token",
+    "decimals": 8,
+    "symbol": "THL",
+    "type": "0x07fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
+    "order": 1000
+  },
+  {
+    "source": "partners",
+    "chainId": 1,
     "name": "AptSwap Governance Token",
     "decimals": 8,
     "symbol": "AptSwap",
@@ -275,15 +284,6 @@
     "symbol": "DLC",
     "type": "0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC",
     "order": 1000
-  },
-  {
-    "source": "partners",
-    "chainId": 1,
-    "name": "Thala Token",
-    "decimals": 8,
-    "symbol": "THL",
-    "type": "0x07fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
-    "order": 50
   },
   {
     "source": "aptos",
