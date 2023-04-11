@@ -277,6 +277,15 @@
     "order": 1000
   },
   {
+    "source": "partners",
+    "chainId": 1,
+    "name": "Thala Token",
+    "decimals": 8,
+    "symbol": "THL",
+    "type": "0x07fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
+    "order": 50
+  },
+  {
     "source": "aptos",
     "name": "Aptos Coin",
     "chainId": 2,
