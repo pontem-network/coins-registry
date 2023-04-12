@@ -98,6 +98,12 @@
     "networkId": 1
   },
   {
+    "coinX": "0x76465c5a665cda57337312ed9409ead2d8a7e371073cff66fb4f28ad2767822f::wool::Wool",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "uncorrelated",
+    "networkId": 1
+  },
+  {
     "coinX": "0x1::aptos_coin::AptosCoin",
     "coinY": "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin",
     "curve": "stable",

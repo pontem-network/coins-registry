@@ -286,6 +286,15 @@
     "order": 1000
   },
   {
+    "source": "aptoswolfgame",
+    "chainId": 1,
+    "name": "Aptos Wolf Game Wool",
+    "decimals": 8,
+    "symbol": "WOOL",
+    "type": "0x76465c5a665cda57337312ed9409ead2d8a7e371073cff66fb4f28ad2767822f::wool::Wool",
+    "order": 1000
+  },
+  {
     "source": "aptos",
     "name": "Aptos Coin",
     "chainId": 2,
