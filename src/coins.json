@@ -286,6 +286,16 @@
     "order": 1000
   },
   {
+    "source": "multichain",
+    "chainId": 1,
+    "caution": false,
+    "name": "USD Coin",
+    "decimals": 6,
+    "symbol": "USDC",
+    "type": "0xd6d6372c8bde72a7ab825c00b9edd35e643fb94a61c55d9d94a9db3010098548::USDC::Coin",
+    "order": 1000
+  },
+  {
     "source": "aptos",
     "name": "Aptos Coin",
     "chainId": 2,
