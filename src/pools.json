@@ -147,6 +147,13 @@
     "networkId": 1
   },
   {
+    "coinX": "0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "uncorrelated",
+    "contract": 0.5,
+    "networkId": 1
+  },
+  {
     "coinX": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
