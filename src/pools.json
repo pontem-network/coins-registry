@@ -149,7 +149,7 @@
   {
     "coinX": "0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin",
     "coinY": "0x1::aptos_coin::AptosCoin",
-    "curve": "uncorrelated",
+    "curve": "unstable",
     "contract": 0.5,
     "networkId": 1
   },
