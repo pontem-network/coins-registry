@@ -196,5 +196,27 @@
       "networkId": 2
     },
     "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
+    "order": 14,
+    "address": "0x81fad4fa8b5add9073dae9c3a57b742ecc1bde7bb49a7cb16a96995078cf13df",
+    "pool": {
+      "coinX": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
+      "networkId": 2
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
+    "order": 15,
+    "address": "0x81fad4fa8b5add9073dae9c3a57b742ecc1bde7bb49a7cb16a96995078cf13df",
+    "pool": {
+      "coinX": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
+      "networkId": 2
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
   }
 ]
