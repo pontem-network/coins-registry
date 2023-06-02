@@ -1,6 +1,6 @@
 {
   "name": "@pontem/coins-registry",
-  "version": "2.1.11",
+  "version": "2.1.12",
   "description": "Liquidswap coins & pools registry",
   "main": "src/index.js",
   "scripts": {
