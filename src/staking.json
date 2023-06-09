@@ -223,8 +223,8 @@
     "order": 16,
     "address": "0xd41758dbf575874b0233c245025275ff14693a12e9a5cd423d50bc76ce455fc9",
     "pool": {
-      "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
-      "coinY": "0x1::aptos_coin::AptosCoin",
+      "coinX": "0x1::aptos_coin::AptosCoin",
+      "coinY": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 1
     },
@@ -237,8 +237,8 @@
     "order": 17,
     "address": "0xd41758dbf575874b0233c245025275ff14693a12e9a5cd423d50bc76ce455fc9",
     "pool": {
-      "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
-      "coinY": "0x1::aptos_coin::AptosCoin",
+      "coinX": "0x1::aptos_coin::AptosCoin",
+      "coinY": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 1
     },
@@ -251,8 +251,8 @@
     "order": 18,
     "address": "0xd41758dbf575874b0233c245025275ff14693a12e9a5cd423d50bc76ce455fc9",
     "pool": {
-      "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
-      "coinY": "0x1::aptos_coin::AptosCoin",
+      "coinX": "0x1::aptos_coin::AptosCoin",
+      "coinY": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 1
     },
