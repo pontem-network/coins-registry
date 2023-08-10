@@ -118,6 +118,15 @@
     "order": 52
   },
   {
+    "name": "Wrapped BTC (LayerZero)",
+    "chainId": 1,
+    "decimals": 6,
+    "symbol": "zWBTC",
+    "source": "layerzero",
+    "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WBTC",
+    "order": 53
+  },
+  {
     "source": "celer",
     "chainId": 1,
     "name": "Binance USD",
