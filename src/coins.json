@@ -231,6 +231,26 @@
   {
     "source": "partners",
     "chainId": 1,
+    "name": "Amnis Aptos Coin",
+    "decimals": 8,
+    "symbol": "amAPT",
+    "type": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
+    "caution": true,
+    "order": 1000
+  },
+  {
+    "source": "partners",
+    "chainId": 1,
+    "name": "Staked Aptos Coin",
+    "decimals": 8,
+    "symbol": "stAPT",
+    "type": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
+    "caution": true,
+    "order": 1000
+  },
+  {
+    "source": "partners",
+    "chainId": 1,
     "caution": false,
     "name": "Aptoge",
     "decimals": 6,
