@@ -168,6 +168,13 @@
     "networkId": 1
   },
   {
+    "coinX": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "stable",
+    "contract": 0.5,
+    "networkId": 1
+  },
+  {
     "coinX": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
