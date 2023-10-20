@@ -376,5 +376,15 @@
     "source": "pontem",
     "type": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::DAI",
     "order": 50
+  },
+  {
+    "source": "partners",
+    "name": "Bofa Chiku",
+    "chainId": 1,
+    "decimals": 6,
+    "symbol": "BOFA",
+    "type": "0xd1fe830dd863890ead995cbed2e1584da1558df1de184f31c8d0adf95fe19bc::proton_d69::PROTON_75C",
+    "caution": false,
+    "order": 1
   }
 ]
