@@ -323,6 +323,16 @@
     "order": 1000
   },
   {
+    "source": "partners",
+    "chainId": 1,
+    "caution": false,
+    "name": "Propbase",
+    "decimals": 8,
+    "symbol": "PROPS",
+    "type": "0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099::propbase_coin::PROPS",
+    "order": 1000
+  },
+  {
     "source": "aptos",
     "name": "Aptos Coin",
     "chainId": 2,
