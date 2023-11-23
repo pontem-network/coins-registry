@@ -21,6 +21,11 @@ const networks = {
 	 * Aptos Testnet Chain Id
 	 */
 	testnet: 2,
+
+	/**
+	 * L2 Chain Id
+	 */
+	l2: 5,
 };
 
 /**
@@ -34,7 +39,7 @@ const coinsRegistry = {
 	/**
 	 * Get coins list for passed chain name
 	 *
-	 * @param {'mainnet'|'testnet'} networkName Name of the chain
+	 * @param {'mainnet'|'testnet'|'l2'} networkName Name of the chain
 	 * @returns Array<Object>
 	 */
 	getCoinsFor: networkName =>
@@ -43,7 +48,7 @@ const coinsRegistry = {
 	/**
 	 * Get swap pools list for passed chain name
 	 *
-	 * @param {'mainnet'|'testnet'} networkName Name of the chain
+	 * @param {'mainnet'|'testnet'|'l2'} networkName Name of the chain
 	 * @returns Array<Object>
 	 */
 	getPoolsFor: networkName =>
@@ -52,7 +57,7 @@ const coinsRegistry = {
 	/**
 	 * Get staking pools list for passed chain name
 	 *
-	 * @param {'mainnet'|'testnet'} networkName Name of the chain
+	 * @param {'mainnet'|'testnet'|'l2'} networkName Name of the chain
 	 * @returns Array<Object>
 	 */
 	getStakingPoolsFor: networkName =>

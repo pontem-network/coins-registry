@@ -192,7 +192,14 @@
     "coinX": "0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::USDC",
     "coinY": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
     "curve": "stable",
-    "contract": 0,
+    "contract": 0.5,
     "networkId": 2
+  },
+  {
+    "coinX": "0x1::native_coin::NativeCoin",
+    "coinY": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::USDT",
+    "curve": "unstable",
+    "contract": 0.5,
+    "networkId": 5
   }
 ]
