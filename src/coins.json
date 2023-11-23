@@ -386,5 +386,21 @@
     "source": "pontem",
     "type": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::DAI",
     "order": 50
+  },
+  {
+    "name": "USDT",
+    "chainId": 5,
+    "decimals": 6,
+    "symbol": "USDT",
+    "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::USDT",
+    "order": 51
+  },
+  {
+    "name": "BTC",
+    "chainId": 5,
+    "decimals": 8,
+    "symbol": "BTC",
+    "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::BTC",
+    "order": 52
   }
 ]
