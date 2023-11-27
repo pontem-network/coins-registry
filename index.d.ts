@@ -22,6 +22,7 @@ export type Coin = {
 	symbol: string;
 	type: string;
 	caution?: boolean;
+	logo_url: string;
 	order: number;
 };
 
