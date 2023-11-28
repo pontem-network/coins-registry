@@ -600,7 +600,7 @@
   {
     "chainId": 1,
     "decimals": 9,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/spring.svg",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/spring.webp",
     "name": "SPRING",
     "order": 1000,
     "source": "aptos",
