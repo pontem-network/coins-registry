@@ -7,11 +7,11 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-# LiquidSwap Coins & Pools Registry
+# LiquidSwap & Pontem Wallet Coins & Pools Registry
 
-We are developing our own Coin Registry file formats for [LiquidSwap](https://liquidswap.com), which contains all the information about coins and pools in which coins can be exchanged.
+We are developing our own Coin Registry file formats for [LiquidSwap](https://liquidswap.com) and [Pontem Wallet](https://pontemwallet.xyz/), which contains all the information about coins and pools in which coins can be exchanged.
 
-Currently, we use two files for data:
+Currently, we use these files for data:
 
 - coins.json
 - pools.json
@@ -34,7 +34,8 @@ There is a coins list in coins.json. One coin can be presented as follows:
     "symbol": "APT",
     "type": "0x1::aptos_coin::AptosCoin",
     "caution": false,
-    "order": 1
+    "order": 1,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg"
 }
 ```
 
@@ -61,6 +62,8 @@ There is a coins list in coins.json. One coin can be presented as follows:
 ```caution``` - if we need to show warning icon near the coin - we will add the caution field.
 
 ```order``` - order of coin in coins list. Current logic:
+
+```logo_url``` - absolute path to coin logo from githubusercontent and this repo
 
 ```
 1 Apt
