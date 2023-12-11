@@ -836,5 +836,15 @@
     "source": "aptos",
     "symbol": "ar-USDC",
     "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T>"
+  },
+{
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/SolanaDev007/coins-registry/main/src/coins-logos/luffy.webp",
+    "name": "Luffy",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "Luffy",
+    "type": "0x9a19f4c81f7dc7b8ae6f568d562e6fb056c3894303229c91f73f34c24b0403b0::luffycoin::Luffy"
   }
 ]
