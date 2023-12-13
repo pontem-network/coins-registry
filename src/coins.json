@@ -266,7 +266,7 @@
   {
     "chainId": 1,
     "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/stapt.svg",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/amstapt.png",
     "name": "Staked Aptos Coin",
     "order": 1000,
     "source": "amnis",
@@ -361,7 +361,7 @@
     "caution": false,
     "chainId": 1,
     "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/unknown.svg",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/props.png",
     "name": "Propbase",
     "order": 1000,
     "source": "partners",
@@ -465,7 +465,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "MEE",
-    "type": "0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin"
+    "type": "0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -475,7 +476,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "WAR",
-    "type": "0x52ab49a4039c3d2b0aa6e0a00aaed75dcff72a3120ba3610f62d1d0b6032345a::war_coin::WarCoin"
+    "type": "0x52ab49a4039c3d2b0aa6e0a00aaed75dcff72a3120ba3610f62d1d0b6032345a::war_coin::WarCoin",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -495,7 +497,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "APD",
-    "type": "0xcc78307c77f1c2c0fdfee17269bfca7876a0b35438c3442417480c0d5c370fbc::AptopadCoin::APD"
+    "type": "0xcc78307c77f1c2c0fdfee17269bfca7876a0b35438c3442417480c0d5c370fbc::AptopadCoin::APD",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -505,7 +508,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "MOVER",
-    "type": "0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover"
+    "type": "0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -515,7 +519,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "wTBT",
-    "type": "0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb::coin::T"
+    "type": "0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -525,7 +530,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "DTO",
-    "type": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::ditto_discount_coin::DittoDiscountCoin"
+    "type": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::ditto_discount_coin::DittoDiscountCoin",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -535,7 +541,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "thAPT",
-    "type": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT"
+    "type": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -545,7 +552,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "sthAPT",
-    "type": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::StakedThalaAPT"
+    "type": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::StakedThalaAPT",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -555,7 +563,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "ETERN",
-    "type": "0x25a64579760a4c64be0d692327786a6375ec80740152851490cfd0b53604cf95::coin::ETERN"
+    "type": "0x25a64579760a4c64be0d692327786a6375ec80740152851490cfd0b53604cf95::coin::ETERN",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -565,7 +574,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "APC",
-    "type": "0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin"
+    "type": "0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -575,7 +585,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "EON",
-    "type": "0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::EONcoin::EONCoin"
+    "type": "0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::EONcoin::EONCoin",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -585,7 +596,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "People",
-    "type": "0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People"
+    "type": "0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -595,7 +607,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "ANI",
-    "type": "0x16fe2df00ea7dde4a63409201f7f4e536bde7bb7335526a35d05111e68aa322c::AnimeCoin::ANI"
+    "type": "0x16fe2df00ea7dde4a63409201f7f4e536bde7bb7335526a35d05111e68aa322c::AnimeCoin::ANI",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -605,7 +618,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "SPRING",
-    "type": "0x7bdeaba6f037caf06bb5b2d57df9ee03a07e2a9df45b338ef3deb44d16c01d10::spring_coin::Spring_Coin"
+    "type": "0x7bdeaba6f037caf06bb5b2d57df9ee03a07e2a9df45b338ef3deb44d16c01d10::spring_coin::Spring_Coin",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -615,7 +629,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "GARI",
-    "type": "0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T"
+    "type": "0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -625,7 +640,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "SLT",
-    "type": "0x8b2df69c9766e18486c37e3cfc53c6ce6e9aa58bbc606a8a0a219f24cf9eafc1::sui_launch_token::SuiLaunchToken"
+    "type": "0x8b2df69c9766e18486c37e3cfc53c6ce6e9aa58bbc606a8a0a219f24cf9eafc1::sui_launch_token::SuiLaunchToken",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -635,7 +651,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "ALI",
-    "type": "0x27975005fd8b836a905dc7f81c51f89e76091a4d0c4d694265f6eae0c05cb400::proton_a5d::PROTON_E54"
+    "type": "0x27975005fd8b836a905dc7f81c51f89e76091a4d0c4d694265f6eae0c05cb400::proton_a5d::PROTON_E54",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -665,7 +682,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "WBNB",
-    "type": "0x6312bc0a484bc4e37013befc9949df2d7c8a78e01c6fe14a34018449d136ba86::coin::T"
+    "type": "0x6312bc0a484bc4e37013befc9949df2d7c8a78e01c6fe14a34018449d136ba86::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -675,7 +693,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "USDTbs",
-    "type": "0xacd014e8bdf395fa8497b6d585b164547a9d45269377bdf67c96c541b7fec9ed::coin::T"
+    "type": "0xacd014e8bdf395fa8497b6d585b164547a9d45269377bdf67c96c541b7fec9ed::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -685,7 +704,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "USDCso",
-    "type": "0xc91d826e29a3183eb3b6f6aa3a722089fdffb8e9642b94c5fcd4c48d035c0080::coin::T"
+    "type": "0xc91d826e29a3183eb3b6f6aa3a722089fdffb8e9642b94c5fcd4c48d035c0080::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -695,7 +715,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "USDCpo",
-    "type": "0xc7160b1c2415d19a88add188ec726e62aab0045f0aed798106a2ef2994a9101e::coin::T"
+    "type": "0xc7160b1c2415d19a88add188ec726e62aab0045f0aed798106a2ef2994a9101e::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -705,7 +726,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "USDCbs",
-    "type": "0x79a6ed7a0607fdad2d18d67d1a0e552d4b09ebce5951f1e5c851732c02437595::coin::T"
+    "type": "0x79a6ed7a0607fdad2d18d67d1a0e552d4b09ebce5951f1e5c851732c02437595::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -715,7 +737,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "USDCav",
-    "type": "0x39d84c2af3b0c9895b45d4da098049e382c451ba63bec0ce0396ff7af4bb5dff::coin::T"
+    "type": "0x39d84c2af3b0c9895b45d4da098049e382c451ba63bec0ce0396ff7af4bb5dff::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -725,7 +748,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "WAVAX",
-    "type": "0x5b1bbc25524d41b17a95dac402cf2f584f56400bf5cc06b53c36b331b1ec6e8f::coin::T"
+    "type": "0x5b1bbc25524d41b17a95dac402cf2f584f56400bf5cc06b53c36b331b1ec6e8f::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -735,7 +759,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "SWEAT",
-    "type": "0x9aa4c03344444b53f4d9b1bca229ed2ac47504e3ea6cd0683ebdc0c5ecefd693::coin::T"
+    "type": "0x9aa4c03344444b53f4d9b1bca229ed2ac47504e3ea6cd0683ebdc0c5ecefd693::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -745,7 +770,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "NEAR",
-    "type": "0x394205c024d8e932832deef4cbfc7d3bb17ff2e9dc184fa9609405c2836b94aa::coin::T"
+    "type": "0x394205c024d8e932832deef4cbfc7d3bb17ff2e9dc184fa9609405c2836b94aa::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -755,7 +781,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "NEXM",
-    "type": "0x1f9dca8eb42832b9ea07a804d745ef08833051e0c75c45b82665ef6f6e7fac32::coin::T"
+    "type": "0x1f9dca8eb42832b9ea07a804d745ef08833051e0c75c45b82665ef6f6e7fac32::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -765,7 +792,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "SUSHI",
-    "type": "0x2305dd96edd8debb5a2049be54379c74e61b37ceb54a49bd7dee4726d2a6b689::coin::T"
+    "type": "0x2305dd96edd8debb5a2049be54379c74e61b37ceb54a49bd7dee4726d2a6b689::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -775,7 +803,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "CELO",
-    "type": "0xac0c3c35d50f6ef00e3b4db6998732fe9ed6331384925fe8ec95fcd7745a9112::coin::T"
+    "type": "0xac0c3c35d50f6ef00e3b4db6998732fe9ed6331384925fe8ec95fcd7745a9112::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -785,7 +814,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "FTT",
-    "type": "0x419d16ebaeda8dc374b1178a61d24fb699799d55a3f475f427998769c537b51b::coin::T"
+    "type": "0x419d16ebaeda8dc374b1178a61d24fb699799d55a3f475f427998769c537b51b::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -795,7 +825,8 @@
     "order": 1000,
     "source": "wormhole",
     "symbol": "XCN",
-    "type": "0xcefd39b563951a9ec2670aa57086f9adb3493671368ea60ff99e0bc98f697bb5::coin::T"
+    "type": "0xcefd39b563951a9ec2670aa57086f9adb3493671368ea60ff99e0bc98f697bb5::coin::T",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -805,7 +836,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "ar-APT",
-    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x1::aptos_coin::AptosCoin>"
+    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x1::aptos_coin::AptosCoin>",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -815,7 +847,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "ar-SOL",
-    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T>"
+    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T>",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -825,7 +858,8 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "ar-zUSDC",
-    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC>"
+    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC>",
+    "unsafe": true
   },
   {
     "chainId": 1,
@@ -835,6 +869,7 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "ar-USDC",
-    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T>"
+    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T>",
+    "unsafe": true
   }
 ]
