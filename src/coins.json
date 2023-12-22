@@ -12,6 +12,17 @@
   },
   {
     "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/doodoo.svg",
+    "name": "DooDoo",
+    "order": 2,
+    "source": "aptos",
+    "symbol": "doodoo",
+    "type": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
+    "unsafe": false
+  },
+  {
+    "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
     "name": "USD Coin",
