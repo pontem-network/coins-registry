@@ -882,5 +882,16 @@
     "symbol": "ar-USDC",
     "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T>",
     "unsafe": true
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/gui.png",
+    "name": "Gui Inu",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "GUI",
+    "type": "0xe4ccb6d39136469f376242c31b34d10515c8eaaa38092f804db8e08a8f53c5b2::assets_v1::EchoCoin002",
+    "unsafe": true
   }
 ]
