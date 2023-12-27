@@ -381,6 +381,17 @@
   },
   {
     "caution": false,
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mbx.svg",
+    "name": "MBX",
+    "order": 1000,
+    "source": "partners",
+    "symbol": "MBX",
+    "type": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX"
+  },
+  {
+    "caution": false,
     "chainId": 2,
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",
