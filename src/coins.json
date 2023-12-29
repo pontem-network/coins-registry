@@ -12,6 +12,17 @@
   },
   {
     "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/doodoo.svg",
+    "name": "DooDoo",
+    "order": 2,
+    "source": "aptos",
+    "symbol": "doodoo",
+    "type": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
+    "unsafe": false
+  },
+  {
+    "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
     "name": "USD Coin",
@@ -367,6 +378,17 @@
     "source": "partners",
     "symbol": "PROPS",
     "type": "0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099::propbase_coin::PROPS"
+  },
+  {
+    "caution": false,
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mbx.svg",
+    "name": "MBX",
+    "order": 1000,
+    "source": "partners",
+    "symbol": "MBX",
+    "type": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX"
   },
   {
     "caution": false,
@@ -870,6 +892,17 @@
     "source": "aptos",
     "symbol": "ar-USDC",
     "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T>",
+    "unsafe": true
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/gui.png",
+    "name": "Gui Inu",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "GUI",
+    "type": "0xe4ccb6d39136469f376242c31b34d10515c8eaaa38092f804db8e08a8f53c5b2::assets_v1::EchoCoin002",
     "unsafe": true
   },
   {

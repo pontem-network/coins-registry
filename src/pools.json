@@ -182,6 +182,13 @@
     "networkId": 1
   },
   {
+    "coinX": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": 0.5,
+    "networkId": 1
+  },
+  {
     "coinX": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
@@ -203,9 +210,23 @@
     "networkId": 2
   },
   {
-    "coinX": "0x1::native_coin::NativeCoin",
-    "coinY": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::USDT",
+    "coinX": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::USDT",
+    "coinY": "0x1::native_coin::NativeCoin",
     "curve": "unstable",
+    "contract": 0.5,
+    "networkId": 5
+  },
+  {
+    "coinX": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::BTC",
+    "coinY": "0x1::native_coin::NativeCoin",
+    "curve": "unstable",
+    "contract": 0.5,
+    "networkId": 5
+  },
+  {
+    "coinX": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::BTC",
+    "coinY": "0x1::native_coin::NativeCoin",
+    "curve": "stable",
     "contract": 0.5,
     "networkId": 5
   }
