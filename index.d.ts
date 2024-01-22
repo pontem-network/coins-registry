@@ -32,6 +32,8 @@ export type Pool = {
 	coinY: string;
 	curve: 'unstable' | 'stable';
 	networkId: number;
+	contract?: number;
+	exceptional?: boolean;
 };
 
 export type StakingPool = {
