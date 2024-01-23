@@ -20,6 +20,7 @@ export type Coin = {
 	chainId: number;
 	decimals: number;
 	symbol: string;
+	symbol_with_bridge: string;
 	type: string;
 	caution?: boolean;
 	logo_url: string;
@@ -31,6 +32,8 @@ export type Pool = {
 	coinY: string;
 	curve: 'unstable' | 'stable';
 	networkId: number;
+	contract?: number;
+	exceptional?: boolean;
 };
 
 export type StakingPool = {

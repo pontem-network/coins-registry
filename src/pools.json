@@ -186,6 +186,14 @@
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": 0.5,
+    "networkId": 1,
+    "exceptional": true
+  },
+  {
+    "coinX": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": 0.5,
     "networkId": 1
   },
   {

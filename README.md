@@ -32,6 +32,7 @@ There is a coins list in coins.json. One coin can be presented as follows:
     "chainId": 1,
     "decimals": 8,
     "symbol": "APT",
+    "symbol_with_bridge": "APT"
     "type": "0x1::aptos_coin::AptosCoin",
     "caution": false,
     "order": 1,
@@ -56,6 +57,8 @@ There is a coins list in coins.json. One coin can be presented as follows:
 ```decimals``` - how many decimals supports your coin. We update this value by a request to the node.
 
 ```symbol``` -  it is used to construct a coin alias, which can be equal to symbol as on Picture 1 in the top string.
+
+```symbol_with_bridge``` -  if the token is not connected to any bridge, then the symbol is duplicated, otherwise prefixes are added to the symbol. For example: layerzero USDT - zUSDT, celer USDT - ceUSDT, wormhole USDT - USDT (without a prefix).
 
 ```type``` - full type of coin. String with following structure ADDRESS::MODULE::COIN, e.g. ```0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA```.
 
