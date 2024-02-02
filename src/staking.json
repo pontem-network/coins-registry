@@ -231,6 +231,17 @@
     "reward": "0x1::aptos_coin::AptosCoin"
   },
   {
+    "order": 19,
+    "address": "0x5e2754f7531a1ff6e6dbfcca911ec49841c35ed6deee0b441a4dcf0ca0f62680",
+    "pool": {
+      "coinX": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
     "order": 1,
     "address": "0xa9f2387fe08656b41d416b41d7d239931814faa13224f7e7bb12197f4afca9a3",
     "pool": {
