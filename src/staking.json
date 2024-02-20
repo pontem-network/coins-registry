@@ -242,6 +242,39 @@
     "reward": "0x1::aptos_coin::AptosCoin"
   },
   {
+    "order": 20,
+    "address": "0xe2ce66f7dbfc0237fd7cf97dc18ded12129b04bfa5498ec991c8731274de2389",
+    "pool": {
+      "coinX": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x0163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
+    "order": 21,
+    "address": "0xe2ce66f7dbfc0237fd7cf97dc18ded12129b04bfa5498ec991c8731274de2389",
+    "pool": {
+      "coinX": "0x1::aptos_coin::AptosCoin",
+      "coinY": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
+    "order": 23,
+    "address": "0xe2ce66f7dbfc0237fd7cf97dc18ded12129b04bfa5498ec991c8731274de2389",
+    "pool": {
+      "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+      "coinY": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
     "order": 1,
     "address": "0xa9f2387fe08656b41d416b41d7d239931814faa13224f7e7bb12197f4afca9a3",
     "pool": {
