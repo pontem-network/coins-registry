@@ -714,7 +714,7 @@
     "source": "wormhole",
     "symbol": "GARI",
     "type": "0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T",
-    "unsafe": true,
+    "unsafe": false,
     "symbol_with_bridge": "GARI"
   },
   {
