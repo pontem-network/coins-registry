@@ -442,6 +442,18 @@
   },
   {
     "caution": false,
+    "chainId": 1,
+    "decimals": 2,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/shrimp.png",
+    "name": "SHRIMP",
+    "order": 1000,
+    "source": "partners",
+    "symbol": "SHRIMP",
+    "type": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
+    "symbol_with_bridge": "SHRIMP"
+  },
+  {
+    "caution": false,
     "chainId": 2,
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",
