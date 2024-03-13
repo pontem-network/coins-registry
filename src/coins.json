@@ -24,6 +24,30 @@
     "symbol_with_bridge": "doodoo"
   },
   {
+    "caution": false,
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/returd.png",
+    "name": "RETuRD",
+    "order": 3,
+    "source": "partners",
+    "symbol": "RETuRD",
+    "type": "0xdf3d5eb83df80dfde8ceb1edaa24d8dbc46da6a89ae134a858338e1b86a29e38::coin::Returd",
+    "symbol_with_bridge": "RETuRD"
+  },
+  {
+    "caution": false,
+    "chainId": 1,
+    "decimals": 2,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/shrimp.png",
+    "name": "SHRIMP",
+    "order": 4,
+    "source": "partners",
+    "symbol": "SHRIMP",
+    "type": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
+    "symbol_with_bridge": "SHRIMP"
+  },
+  {
     "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
@@ -427,30 +451,6 @@
     "symbol": "MBX",
     "type": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX",
     "symbol_with_bridge": "MBX"
-  },
-  {
-    "caution": false,
-    "chainId": 1,
-    "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/returd.png",
-    "name": "RETuRD",
-    "order": 1000,
-    "source": "partners",
-    "symbol": "RETuRD",
-    "type": "0xdf3d5eb83df80dfde8ceb1edaa24d8dbc46da6a89ae134a858338e1b86a29e38::coin::Returd",
-    "symbol_with_bridge": "RETuRD"
-  },
-  {
-    "caution": false,
-    "chainId": 1,
-    "decimals": 2,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/shrimp.png",
-    "name": "SHRIMP",
-    "order": 1000,
-    "source": "partners",
-    "symbol": "SHRIMP",
-    "type": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
-    "symbol_with_bridge": "SHRIMP"
   },
   {
     "caution": false,
