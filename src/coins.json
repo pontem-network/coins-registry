@@ -1014,5 +1014,16 @@
     "type": "0xe4ccb6d39136469f376242c31b34d10515c8eaaa38092f804db8e08a8f53c5b2::assets_v1::EchoCoin002",
     "unsafe": true,
     "symbol_with_bridge": "GUI"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/cdt.svg",
+    "name": "CheckDot",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "CDT",
+    "type": "0xb366c7c4521277846a7fee4f3bcc92c435089537d30390d8854ca31addfbae4f::CdtCoin::CDT",
+    "unsafe": true
   }
 ]
