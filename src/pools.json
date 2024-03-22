@@ -244,5 +244,12 @@
     "curve": "stable",
     "contract": 0.5,
     "networkId": 5
+  },
+  {
+    "coinX": "0x1::aptos_coin::AptosCoin",
+    "coinY": "0x9a8d0e2fde92bb5a503ad899b352b630952651cba26e4959d0ed19d79f9b02ee::asset::MoveYourBody",
+    "curve": "unstable",
+    "contract": 0.5,
+    "networkId": 1
   }
 ]

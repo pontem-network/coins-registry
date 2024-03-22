@@ -1026,5 +1026,17 @@
     "type": "0x1fc2f33ab6b624e3e632ba861b755fd8e61d2c2e6cf8292e415880b4c198224d::apt20::APTS",
     "unsafe": true,
     "symbol_with_bridge": "APTS"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/body.png",
+    "name": "MoveYourBody",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "body",
+    "type": "0x9a8d0e2fde92bb5a503ad899b352b630952651cba26e4959d0ed19d79f9b02ee::asset::MoveYourBody",
+    "unsafe": true,
+    "symbol_with_bridge": "body"
   }
 ]
