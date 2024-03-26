@@ -1024,7 +1024,6 @@
     "source": "aptos",
     "symbol": "APTS",
     "type": "0x1fc2f33ab6b624e3e632ba861b755fd8e61d2c2e6cf8292e415880b4c198224d::apt20::APTS",
-    "unsafe": true,
     "symbol_with_bridge": "APTS"
   }
 ]
