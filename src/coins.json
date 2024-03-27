@@ -1025,5 +1025,27 @@
     "symbol": "APTS",
     "type": "0x1fc2f33ab6b624e3e632ba861b755fd8e61d2c2e6cf8292e415880b4c198224d::apt20::APTS",
     "symbol_with_bridge": "APTS"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/uptos.svg",
+    "name": "UPTOS",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "UPTOS",
+    "type": "0xd4aa142c199a57bf5673c78339cd03d9cd22f75c902190c6fb436ea7ee9a5141::UPTOS::UPTOS",
+    "symbol_with_bridge": "UPTOS"
+  },
+  {
+    "chainId": 1,
+    "decimals": 0,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/chewy.png",
+    "name": "Chewy",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "CHEWY",
+    "type": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
+    "symbol_with_bridge": "CHEWY"
   }
 ]
