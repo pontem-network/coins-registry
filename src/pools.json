@@ -232,13 +232,6 @@
     "networkId": 1
   },
   {
-    "coinX": "0x1::aptos_coin::AptosCoin",
-    "coinY": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
-    "curve": "unstable",
-    "contract": 0.5,
-    "networkId": 1
-  },
-  {
     "coinX": "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T",
     "coinY": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WBTC",
     "curve": "stable",
@@ -275,7 +268,7 @@
   },
   {
     "coinX": "0x1::aptos_coin::AptosCoin",
-    "coinY": "xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
+    "coinY": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
     "curve": "stable",
     "contract": 0.5,
     "networkId": 1
@@ -285,13 +278,6 @@
     "coinY": "0x2778b277644d375721766abfff0df2adca795f6cbae9f02ff1c95ce9adb6ee28::aptos_shiba_coin::AptosShibaCoin",
     "curve": "unstable",
     "contract": 0,
-    "networkId": 1
-  },
-  {
-    "coinX": "0x1::aptos_coin::AptosCoin",
-    "coinY": "0x3be1b0966a7f400c1ea57e6ddfe5f060282592a1f4df4d45872a7c8bc46b5ba5::zapdos::Zapdos",
-    "curve": "unstable",
-    "contract": 0.5,
     "networkId": 1
   },
   {
