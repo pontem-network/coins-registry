@@ -1034,7 +1034,7 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "UPTOS",
-    "type": "0xd4aa142c199a57bf5673c78339cd03d9cd22f75c902190c6fb436ea7ee9a5141::UPTOS::UPTOS",
+    "type": "0x4fbed3f8a3fd8a11081c8b6392152a8b0cb14d70d0414586f0c9b858fcd2d6a7::UPTOS::UPTOS",
     "symbol_with_bridge": "UPTOS"
   },
   {
