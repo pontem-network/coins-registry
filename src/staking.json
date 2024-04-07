@@ -363,6 +363,17 @@
     "reward": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt"
   },
   {
+    "order": 32,
+    "address": "0x4be2c1d9d8e52e7c01088a2185e09d66503009c1271161a524e5645aa2fbbb77",
+    "pool": {
+      "coinX": "0x4fbed3f8a3fd8a11081c8b6392152a8b0cb14d70d0414586f0c9b858fcd2d6a7::UPTOS::UPTOS",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
     "order": 1,
     "address": "0xa9f2387fe08656b41d416b41d7d239931814faa13224f7e7bb12197f4afca9a3",
     "pool": {
