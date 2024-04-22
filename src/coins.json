@@ -1057,7 +1057,7 @@
     "source": "aptos",
     "symbol": "Woof",
     "type": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
-    "unsafe": true,
+    "caution": true,
     "symbol_with_bridge": "Woof"
   }
 ]
