@@ -1047,5 +1047,17 @@
     "symbol": "CHEWY",
     "type": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
     "symbol_with_bridge": "CHEWY"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/woof.png",
+    "name": "Woof",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "Woof",
+    "type": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
+    "unsafe": true,
+    "symbol_with_bridge": "Woof"
   }
 ]
