@@ -1061,3 +1061,13 @@
     "symbol_with_bridge": "Woof"
   }
 ]
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/TOSS.png",
+    "name": "TOSS",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "TOSS",
+    "type": "0xc91b3a5769975fa95392447c55bba9936641db5c7a82b507f094459712885307::uptoss_coin::UpTossCoin",
+    "caution": true,
+    "symbol_with_bridge": "TOSS"
