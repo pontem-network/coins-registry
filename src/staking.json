@@ -399,6 +399,50 @@
     "reward": "0x1::aptos_coin::AptosCoin"
   },
   {
+    "order": 35,
+    "address": "0xf4eceeb8438242ed43e2d6f7b2534e8e2e1e96f12755ebbc345a7b570ec367a8",
+    "pool": {
+      "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+      "coinY": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
+    "order": 36,
+    "address": "0xf4eceeb8438242ed43e2d6f7b2534e8e2e1e96f12755ebbc345a7b570ec367a8",
+    "pool": {
+      "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
+    "order": 37,
+    "address": "0xf4eceeb8438242ed43e2d6f7b2534e8e2e1e96f12755ebbc345a7b570ec367a8",
+    "pool": {
+      "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
+    "order": 38,
+    "address": "0xf4eceeb8438242ed43e2d6f7b2534e8e2e1e96f12755ebbc345a7b570ec367a8",
+    "pool": {
+      "coinX": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin"
+  },
+  {
     "order": 1,
     "address": "0xa9f2387fe08656b41d416b41d7d239931814faa13224f7e7bb12197f4afca9a3",
     "pool": {
