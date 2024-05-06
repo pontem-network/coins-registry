@@ -1059,5 +1059,17 @@
     "type": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
     "caution": true,
     "symbol_with_bridge": "Woof"
+  },
+    {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/aptosfomo/coins-registry/main/src/coins-logos/FOMO.png",
+    "name": "APTOS FOMO",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "FOMO",
+    "type": "0xf891d2e004973430cc2bbbee69f3d0f4adb9c7ae03137b4579f7bb9979283ee6::APTOS_FOMO::APTOS_FOMO",
+    "caution": true,
+    "symbol_with_bridge": "FOMO"
   }
 ]
