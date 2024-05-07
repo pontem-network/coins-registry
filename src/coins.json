@@ -1068,6 +1068,6 @@
     "order": 1000,
     "source": "aptos",
     "symbol": "TOSS",
-    "type": "0xb5a1839adaf91bd140e55c4c9c09b77805b65dbab74faa6bce6f301c33bfe7b5::toss_coin::TossCoin",
+    "type": "0x66302f3c648890f70ca3fafc42c919483945f3ba155101bc2e149e38a8b93afc::toss_coin::TossCoin",
     "caution": true,
     "symbol_with_bridge": "TOSS"
