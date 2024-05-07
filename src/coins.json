@@ -1069,5 +1069,4 @@
     "source": "aptos",
     "symbol": "TOSS",
     "type": "0x66302f3c648890f70ca3fafc42c919483945f3ba155101bc2e149e38a8b93afc::toss_coin::TossCoin",
-    "caution": true,
     "symbol_with_bridge": "TOSS"
