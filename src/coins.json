@@ -1087,7 +1087,7 @@
     "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/pepeaptos.jpg",
-    "name": "TOSS",
+    "name": "PEPE",
     "order": 1000,
     "source": "aptos",
     "symbol": "PEPE",
