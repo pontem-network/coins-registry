@@ -1059,8 +1059,8 @@
     "type": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
     "caution": true,
     "symbol_with_bridge": "Woof"
-  }
-]
+  },
+  {
     "chainId": 1,
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/TOSS.png",
@@ -1070,3 +1070,5 @@
     "symbol": "TOSS",
     "type": "0x66302f3c648890f70ca3fafc42c919483945f3ba155101bc2e149e38a8b93afc::toss_coin::TossCoin",
     "symbol_with_bridge": "TOSS"
+  }
+]
