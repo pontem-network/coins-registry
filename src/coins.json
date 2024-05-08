@@ -1070,5 +1070,16 @@
     "symbol": "FOMO",
     "type": "0xf891d2e004973430cc2bbbee69f3d0f4adb9c7ae03137b4579f7bb9979283ee6::APTOS_FOMO::APTOS_FOMO",
     "symbol_with_bridge": "FOMO"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/TOSS.png",
+    "name": "TOSS",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "TOSS",
+    "type": "0x66302f3c648890f70ca3fafc42c919483945f3ba155101bc2e149e38a8b93afc::toss_coin::TossCoin",
+    "symbol_with_bridge": "TOSS"
   }
 ]
