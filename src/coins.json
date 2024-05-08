@@ -1069,7 +1069,6 @@
     "source": "aptos",
     "symbol": "FOMO",
     "type": "0xf891d2e004973430cc2bbbee69f3d0f4adb9c7ae03137b4579f7bb9979283ee6::APTOS_FOMO::APTOS_FOMO",
-    "caution": true,
     "symbol_with_bridge": "FOMO"
   }
 ]
