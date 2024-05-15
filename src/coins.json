@@ -1086,13 +1086,12 @@
   {
     "chainId": 1,
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/pepeaptos.jpg",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/pepe.jpg",
     "name": "PEPE",
     "order": 1000,
     "source": "aptos",
     "symbol": "PEPE",
     "type": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
-    "caution": true,
     "symbol_with_bridge": "PEPE"
   }
 ]
