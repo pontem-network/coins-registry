@@ -1060,6 +1060,17 @@
     "caution": true,
     "symbol_with_bridge": "Woof"
   },
+    {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/aptosfomo/coins-registry/main/src/coins-logos/FOMO.png",
+    "name": "APTOS FOMO",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "FOMO",
+    "type": "0xf891d2e004973430cc2bbbee69f3d0f4adb9c7ae03137b4579f7bb9979283ee6::APTOS_FOMO::APTOS_FOMO",
+    "symbol_with_bridge": "FOMO"
+  },
   {
     "chainId": 1,
     "decimals": 9,
@@ -1069,6 +1080,19 @@
     "source": "aptos",
     "symbol": "TOSS",
     "type": "0x66302f3c648890f70ca3fafc42c919483945f3ba155101bc2e149e38a8b93afc::toss_coin::TossCoin",
+    "caution": true,
     "symbol_with_bridge": "TOSS"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/pepeaptos.jpg",
+    "name": "PEPE",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "PEPE",
+    "type": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
+    "caution": true,
+    "symbol_with_bridge": "PEPE"
   }
 ]
