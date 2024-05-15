@@ -1086,7 +1086,7 @@
   {
     "chainId": 1,
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/pepe.jpg",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/pepe.png",
     "name": "PEPE",
     "order": 1000,
     "source": "aptos",
