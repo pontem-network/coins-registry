@@ -30,11 +30,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          version=${{ github.event.inputs.version || 'patch' }}
-          npm version $version
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          version=${{ github.event.inputs.version || 'patch' }}
+          npm version $version
           git push origin HEAD --tags
 
       - name: Publish to npm
