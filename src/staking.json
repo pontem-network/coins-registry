@@ -406,6 +406,9 @@
     "stakingAccountVersion":"1"
   },
 
+
+
+
   {
     "order": 1,
     "address": "0xa9f2387fe08656b41d416b41d7d239931814faa13224f7e7bb12197f4afca9a3",
@@ -415,8 +418,7 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
-    "stakingAccountVersion":"1"
+    "reward": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT"
   },
   {
     "order": 2,
