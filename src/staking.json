@@ -11,7 +11,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Space-Pirates-c46dd298b8"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 2,
@@ -25,7 +26,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Space-Pirates-c46dd298b8"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 3,
@@ -39,7 +41,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Space-Pirates-c46dd298b8"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 4,
@@ -53,7 +56,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Space-Pirates-c46dd298b8"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 5,
@@ -67,7 +71,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Dark-Ages-7fef9d50cd"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 6,
@@ -81,7 +86,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Space-Pirates-c46dd298b8"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 7,
@@ -95,7 +101,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Space-Pirates-c46dd298b8"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 8,
@@ -109,7 +116,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Dark-Ages-7fef9d50cd"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 9,
@@ -120,7 +128,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 10,
@@ -131,7 +140,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX"
+    "reward": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 11,
@@ -142,7 +152,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 12,
@@ -153,7 +164,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 13,
@@ -167,7 +179,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Dark-Ages-7fef9d50cd"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 14,
@@ -181,7 +194,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Dark-Ages-7fef9d50cd"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 15,
@@ -195,7 +209,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Space-Pirates-c46dd298b8"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 16,
@@ -206,7 +221,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 17,
@@ -217,7 +233,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 18,
@@ -228,7 +245,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 19,
@@ -239,7 +257,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 20,
@@ -250,7 +269,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 21,
@@ -261,7 +281,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 23,
@@ -272,7 +293,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 24,
@@ -283,7 +305,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 25,
@@ -294,7 +317,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 26,
@@ -305,7 +329,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 27,
@@ -316,7 +341,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 28,
@@ -327,7 +353,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 29,
@@ -338,7 +365,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 30,
@@ -349,7 +377,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt"
+    "reward": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 31,
@@ -360,7 +389,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
       "networkId": 1
     },
-    "reward": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt"
+    "reward": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 32,
@@ -371,7 +401,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 33,
@@ -382,7 +413,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 34,
@@ -396,7 +428,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Doodoos-OG-70301c2da6"
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 35,
@@ -407,7 +440,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 36,
@@ -418,7 +452,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 37,
@@ -429,7 +464,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 38,
@@ -440,7 +476,8 @@
       "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
       "networkId": 1
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 1,
@@ -451,7 +488,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT"
+    "reward": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 2,
@@ -462,7 +500,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT"
+    "reward": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 3,
@@ -476,7 +515,8 @@
     "nftInfo": {
       "url": "https://www.topaz.so/collection/Pontem-Space-Pirates-c46dd298b8"
     },
-    "reward": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT"
+    "reward": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 4,
@@ -487,7 +527,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 5,
@@ -498,7 +539,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 6,
@@ -509,7 +551,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 7,
@@ -520,7 +563,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Stable",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 8,
@@ -531,7 +575,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 9,
@@ -542,7 +587,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 10,
@@ -553,7 +599,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 11,
@@ -564,7 +611,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 12,
@@ -575,7 +623,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 13,
@@ -586,7 +635,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 14,
@@ -597,7 +647,8 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   },
   {
     "order": 15,
@@ -608,6 +659,7 @@
       "curve": "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12::curves::Uncorrelated",
       "networkId": 2
     },
-    "reward": "0x1::aptos_coin::AptosCoin"
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion":"1"
   }
 ]
