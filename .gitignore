@@ -30,3 +30,7 @@ jspm_packages
 
 # Thumbnails
 ._*
+
+## IDEs
+
+.idea
