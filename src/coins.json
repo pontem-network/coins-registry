@@ -67,7 +67,7 @@
     "source": "wormhole",
     "symbol": "USDC",
     "type": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
-    "symbol_with_bridge": "USDC"
+    "symbol_with_bridge": "wUSDC"
   },
   {
     "chainId": 1,
@@ -100,7 +100,7 @@
     "source": "wormhole",
     "symbol": "USDT",
     "type": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
-    "symbol_with_bridge": "USDT"
+    "symbol_with_bridge": "wUSDT"
   },
   {
     "chainId": 1,
@@ -133,7 +133,7 @@
     "source": "wormhole",
     "symbol": "BTC",
     "type": "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T",
-    "symbol_with_bridge": "WBTC"
+    "symbol_with_bridge": "wWBTC"
   },
   {
     "chainId": 1,
@@ -166,7 +166,7 @@
     "source": "wormhole",
     "symbol": "WETH",
     "type": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T",
-    "symbol_with_bridge": "WETH"
+    "symbol_with_bridge": "wWETH"
   },
   {
     "chainId": 1,
@@ -221,7 +221,7 @@
     "source": "wormhole",
     "symbol": "SOL",
     "type": "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T",
-    "symbol_with_bridge": "SOL"
+    "symbol_with_bridge": "wSOL"
   },
   {
     "chainId": 1,
@@ -334,7 +334,7 @@
     "source": "amnis",
     "symbol": "stAPT",
     "type": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
-    "symbol_with_bridge": "stAPT"
+    "symbol_with_bridge": "amStApt"
   },
   {
     "caution": false,
@@ -358,7 +358,7 @@
     "source": "partners",
     "symbol": "APTSHIBA",
     "type": "0x2778b277644d375721766abfff0df2adca795f6cbae9f02ff1c95ce9adb6ee28::aptos_shiba_coin::AptosShibaCoin",
-    "symbol_with_bridge": "APTSHIBA"
+    "symbol_with_bridge": "AptosShibaCoin"
   },
   {
     "chainId": 1,
