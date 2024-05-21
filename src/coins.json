@@ -1093,5 +1093,16 @@
     "symbol": "PEPE",
     "type": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
     "symbol_with_bridge": "PEPE"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/rena.png",
+    "name": "RENA",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "RENA",
+    "type": "0x4ed27736e724e403f9b4645ffef0ae86fd149503f45b37c428ffabd7e46e5b05::core::RenegadeCoin",
+    "symbol_with_bridge": "RENA"
   }
 ]
