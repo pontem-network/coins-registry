@@ -1097,8 +1097,8 @@
   {
     "chainId": 1,
     "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/rena.svg",
-    "name": "$RENA",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/rena.png",
+    "name": "RENA",
     "order": 1000,
     "source": "aptos",
     "symbol": "RENA",
