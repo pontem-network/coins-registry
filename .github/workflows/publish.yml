@@ -19,12 +19,6 @@ jobs:
         node-version: '18'
         registry-url: 'https://registry.npmjs.org'
 
-    - name: Install dependencies
-      run: yarn
-
-    - name: Build package
-      run: yarn build
-
     - name: Check if version has changed
       id: version_check
       run: |
