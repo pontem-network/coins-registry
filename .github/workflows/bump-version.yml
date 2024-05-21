@@ -14,7 +14,7 @@ on:
           - major
 
 jobs:
-  publish:
+  bump-version:
     runs-on: ubuntu-latest
 
     steps:
@@ -36,8 +36,3 @@ jobs:
           version=${{ github.event.inputs.version || 'patch' }}
           npm version $version
           git push origin HEAD --tags
-
-      - name: Publish to npm
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npm publish
