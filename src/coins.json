@@ -1127,4 +1127,16 @@
     "type": "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc::usdy::USDY",
     "symbol_with_bridge": "USDY"
   }
+    },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/brewtos.png",
+    "name": "Brewtos",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "BREW",
+    "type": "0xe1bfc010d2bdd576036f4c1f3ea7d547f19188f5b78075dd961420d843ee914c::brew_coin::BrewCoin",
+    "symbol_with_bridge": "BREW"
+  }
 ]
