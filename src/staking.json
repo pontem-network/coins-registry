@@ -125,7 +125,7 @@
     "pool": {
       "coinX": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
       "coinY": "0x1::aptos_coin::AptosCoin",
-      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
       "networkId": 1
     },
     "reward": "0x1::aptos_coin::AptosCoin",
@@ -661,5 +661,17 @@
     },
     "reward": "0x1::aptos_coin::AptosCoin",
     "stakingAccountVersion":"1"
+  },
+  {
+    "order": 16,
+    "address": "0xa121de669ff4b668bf1a0410a65faf9c8b1f2ff43f817ef61b6aea1935654209",
+    "pool": {
+      "coinX": "0x1::aptos_coin::AptosCoin",
+      "coinY": "0xbe3c4b493632b4d776d56e19d91dcfb34f591f759f6b57f8632d455360da503c::dumdum_coin::DumdumCoin",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0xbe3c4b493632b4d776d56e19d91dcfb34f591f759f6b57f8632d455360da503c::dumdum_coin::DumdumCoin",
+    "stakingAccountVersion": "1"
   }
 ]
