@@ -366,6 +366,13 @@
     "exceptional": true
   },
   {
+    "coinX": "0x1::aptos_coin::AptosCoin",
+    "coinY": "0xbe3c4b493632b4d776d56e19d91dcfb34f591f759f6b57f8632d455360da503c::dumdum_coin::DumdumCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
     "coinX": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
