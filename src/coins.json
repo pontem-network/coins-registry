@@ -1126,5 +1126,16 @@
     "symbol": "USDY",
     "type": "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc::usdy::USDY",
     "symbol_with_bridge": "USDY"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/donk.png",
+    "name": "Donk",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "Donk",
+    "type": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+    "symbol_with_bridge": "Donk"
   }
 ]
