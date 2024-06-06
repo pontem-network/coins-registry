@@ -1,0 +1,53 @@
+name: Prepare release
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_type:
+        description: 'Type of release (major, minor, patch)'
+        required: true
+        default: 'patch'
+        type: choice
+        options:
+          - patch
+          - minor
+          - major
+
+jobs:
+  prepare-release-pr:
+    name: Prepare Release PR
+    runs-on: self-hosted
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history and tags for standard-version to work
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Bump version and create changelog without creating a tag
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          npm verion ${{ github.event.inputs.release_type }}
+          NEW_VERSION=$(node -p "require('./package.json').version")
+          echo "NEW_VERSION=$NEW_VERSION" >> $GITHUB_ENV
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: 'release-v${{ env.NEW_VERSION }}'
+          base: 'main'
+          title: 'Release v${{ env.NEW_VERSION }}'
+          body: |
+            This PR of release preview version v${{ env.NEW_VERSION }}.
+            Please review the changes and then merge to create a new release.
+          delete-branch: true
