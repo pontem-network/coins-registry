@@ -380,6 +380,13 @@
     "networkId": 2
   },
   {
+    "coinX": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
     "coinX": "0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::USDC",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
