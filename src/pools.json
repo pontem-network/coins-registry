@@ -382,7 +382,7 @@
   {
     "coinX": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
     "coinY": "0x1::aptos_coin::AptosCoin",
-    "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+    "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
   },
