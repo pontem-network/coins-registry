@@ -266,13 +266,7 @@
     "contract": "0.5",
     "networkId": 1
   },
-  {
-    "coinX": "0x1::aptos_coin::AptosCoin",
-    "coinY": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
-    "curve": "stable",
-    "contract": "0.5",
-    "networkId": 1
-  },
+
   {
     "coinX": "0x1::aptos_coin::AptosCoin",
     "coinY": "0x2778b277644d375721766abfff0df2adca795f6cbae9f02ff1c95ce9adb6ee28::aptos_shiba_coin::AptosShibaCoin",
