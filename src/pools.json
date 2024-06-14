@@ -414,5 +414,33 @@
     "curve": "stable",
     "contract": "0.5",
     "networkId": 5
+  },
+  {
+    "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+    "coinY": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+    "bin_step": 5,
+    "contract": "1",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
+    "coinY": "0xdf3d5eb83df80dfde8ceb1edaa24d8dbc46da6a89ae134a858338e1b86a29e38::coin::Returd",
+    "bin_step": 80,
+    "contract": "1",
+    "networkId": 1
+  },
+  {
+    "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "bin_step": 20,
+    "contract": "1",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "bin_step": 80,
+    "contract": "1",
+    "networkId": 1
   }
 ]
