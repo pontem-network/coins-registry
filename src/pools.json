@@ -442,8 +442,7 @@
     "bin_step": 80,
     "contract": "1",
     "networkId": 1
-  }
-    },
+  },
   {
     "coinX": "0xe1bfc010d2bdd576036f4c1f3ea7d547f19188f5b78075dd961420d843ee914c::brew_coin::BrewCoin",
     "coinY": "0x1::aptos_coin::AptosCoin",

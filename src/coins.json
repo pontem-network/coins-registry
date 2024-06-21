@@ -1137,8 +1137,7 @@
     "symbol": "Donk",
     "type": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
     "symbol_with_bridge": "Donk"
-  }
-    },
+  },
   {
     "chainId": 1,
     "decimals": 8,
