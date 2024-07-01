@@ -1148,5 +1148,69 @@
     "symbol": "BREW",
     "type": "0xe1bfc010d2bdd576036f4c1f3ea7d547f19188f5b78075dd961420d843ee914c::brew_coin::BrewCoin",
     "symbol_with_bridge": "BREW"
+  },
+  {
+    "caution": false,
+    "chainId": 27,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",
+    "name": "Aptos Coin",
+    "order": 1,
+    "source": "aptos",
+    "symbol": "APT",
+    "type": "0x1::aptos_coin::AptosCoin",
+    "symbol_with_bridge": "APT"
+  },
+  {
+    "chainId": 27,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/eth.svg",
+    "name": "Ethereum",
+    "order": 51,
+    "symbol": "ETH",
+    "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::ETH",
+    "symbol_with_bridge": "ETH"
+  },
+  {
+    "chainId": 27,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdt.svg",
+    "name": "USDT",
+    "order": 52,
+    "symbol": "USDT",
+    "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::USDT",
+    "symbol_with_bridge": "USDT"
+  },
+  {
+    "chainId": 27,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/btc.svg",
+    "name": "BTC",
+    "order": 53,
+    "symbol": "BTC",
+    "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::BTC",
+    "symbol_with_bridge": "BTC"
+  },
+  {
+    "chainId": 27,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/dai.svg",
+    "name": "DAI",
+    "order": 50,
+    "source": "pontem",
+    "symbol": "DAI",
+    "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::DAI",
+    "symbol_with_bridge": "DAI"
+  },
+  {
+    "chainId": 27,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
+    "name": "USD Coin",
+    "order": 40,
+    "source": "pontem",
+    "symbol": "USDC",
+    "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::USDC",
+    "symbol_with_bridge": "USDC"
   }
 ]
