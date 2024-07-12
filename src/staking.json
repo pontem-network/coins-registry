@@ -528,6 +528,18 @@
     "stakingAccountVersion":"1"
   },
   {
+    "order": 43,
+    "address": "0x4593f0048bf90088ddeca2a30afdfa3443313acae6f0c9d3bd39d3fdee927a34",
+    "pool": {
+      "coinX": "0x1::aptos_coin::AptosCoin",
+      "coinY": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+    "stakingAccountVersion":"1"
+  },
+  {
     "order": 1,
     "address": "0xa9f2387fe08656b41d416b41d7d239931814faa13224f7e7bb12197f4afca9a3",
     "pool": {
