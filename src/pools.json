@@ -444,6 +444,13 @@
     "networkId": 1
   },
   {
+    "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+    "coinY": "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc::usdy::USDY",
+    "bin_step": 10,
+    "contract": "1",
+    "networkId": 1
+  },
+  {
     "coinX": "0xe1bfc010d2bdd576036f4c1f3ea7d547f19188f5b78075dd961420d843ee914c::brew_coin::BrewCoin",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
