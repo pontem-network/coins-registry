@@ -3,6 +3,18 @@
     "caution": false,
     "chainId": 1,
     "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/lsd.png",
+    "name": "Liquidswap",
+    "order": 0,
+    "source": "aptos",
+    "symbol": "LSD",
+    "type": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD",
+    "symbol_with_bridge": "LSD"
+  },
+  {
+    "caution": false,
+    "chainId": 1,
+    "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",
     "name": "Aptos Coin",
     "order": 1,
