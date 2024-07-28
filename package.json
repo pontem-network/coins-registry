@@ -1,6 +1,6 @@
 {
   "name": "@pontem/coins-registry",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "description": "Liquidswap & Pontem Wallet coins & pools registry",
   "main": "src/index.js",
   "scripts": {
