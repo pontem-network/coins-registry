@@ -1162,6 +1162,28 @@
     "symbol_with_bridge": "BREW"
   },
   {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/nruh.png",
+    "name": "nRuH BeRs",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "NRUH",
+    "type": "0x967adbf2e05fe665ab86a3bf2c4acfa39fbf62097963474ef70a0786dae8cfa2::NRUH::NRUH",
+    "symbol_with_bridge": "NRUH"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/stos.png",
+    "name": "sherritos",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "STOS",
+    "type": "0x2dcbc03740a6fa2efee926b9df329184cce357d0573bdab09930f4d48e61a4c8::STOS::STOS",
+    "symbol_with_bridge": "STOS"
+  },
+  {
     "caution": false,
     "chainId": 27,
     "decimals": 8,
