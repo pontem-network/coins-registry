@@ -381,6 +381,20 @@
     "networkId": 1
   },
   {
+    "coinX": "0x2dcbc03740a6fa2efee926b9df329184cce357d0573bdab09930f4d48e61a4c8::STOS::STOS",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x967adbf2e05fe665ab86a3bf2c4acfa39fbf62097963474ef70a0786dae8cfa2::NRUH::NRUH",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
     "coinX": "0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::USDC",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
