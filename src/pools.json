@@ -531,7 +531,7 @@
     "coinX": "0x65957cb717d1ec5e13c003cbad0d20d8f7f95236ea0f8bb8c419e533eda73890::TOAST::TOAST",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
-    "contract": "0",
+    "contract": "0.5",
     "networkId": 1
   }
 ]
