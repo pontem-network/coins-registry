@@ -1186,17 +1186,6 @@
   {
     "chainId": 1,
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/monke.png",
-    "name": "MONKE",
-    "order": 1000,
-    "source": "aptos",
-    "symbol": "MONKE",
-    "type": "0xf6f87fb53c090da2cd681cd30eccec6825685e6f305bfb9efdbbdf31796a83a7::MONKE::MONKE",
-    "symbol_with_bridge": "MONKE"
-  },
-  {
-    "chainId": 1,
-    "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/loon.png",
     "name": "The Loonies",
     "order": 1000,

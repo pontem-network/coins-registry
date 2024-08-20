@@ -395,13 +395,6 @@
     "networkId": 1
   },
   {
-    "coinX": "0xf6f87fb53c090da2cd681cd30eccec6825685e6f305bfb9efdbbdf31796a83a7::MONKE::MONKE",
-    "coinY": "0x1::aptos_coin::AptosCoin",
-    "curve": "unstable",
-    "contract": "0.5",
-    "networkId": 1
-  },
-  {
     "coinX": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6::LOON::LOON",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
