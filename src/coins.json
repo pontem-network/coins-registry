@@ -1279,5 +1279,16 @@
     "symbol": "MKL",
     "type": "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06::mkl_token::MKL",
     "symbol_with_bridge": "MKL"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/modeng.PNG",
+    "name": "Mo Deng",
+    "order": 1000,
+    "source": "aptos",
+    "symbol": "MODENG",
+    "type": "0x6f446fe32a361c5512863d5e610f7d7eaa54d5cee1cea6a2712f2e56da693f1c::MODENG::MODENG",
+    "symbol_with_bridge": "MODENG"
   }
 ]
