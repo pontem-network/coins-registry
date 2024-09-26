@@ -1283,7 +1283,7 @@
   {
     "chainId": 1,
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/modeng.PNG",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/modeng.png",
     "name": "Mo Deng",
     "order": 1000,
     "source": "aptos",
