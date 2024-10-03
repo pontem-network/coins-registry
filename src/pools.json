@@ -553,5 +553,12 @@
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
+  },
+  {
+    "coinX": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
   }
 ]
