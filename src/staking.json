@@ -745,5 +745,44 @@
     },
     "reward": "0xbe3c4b493632b4d776d56e19d91dcfb34f591f759f6b57f8632d455360da503c::dumdum_coin::DumdumCoin",
     "stakingAccountVersion": "1"
+  },
+  {
+    "order": 17,
+    "address": "0x38c658a691f6ee0a896b3e67fdbbbec6840860e3a183e2f47e52e1359f4b1876",
+    "pool": {
+      "coinX": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
+    "stakingAccountVersion": "1"
+  },
+  {
+    "order": 18,
+    "address": "0x38c658a691f6ee0a896b3e67fdbbbec6840860e3a183e2f47e52e1359f4b1876",
+    "pool": {
+      "coinX": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x0163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "nftInfo": {
+      "url": "https://www.topaz.so/collection/Pontem-Space-Pirates-c46dd298b8"
+    },
+    "stakingAccountVersion": "1"
+  },
+  {
+    "order": 19,
+    "address": "0x38c658a691f6ee0a896b3e67fdbbbec6840860e3a183e2f47e52e1359f4b1876",
+    "pool": {
+      "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+      "coinY": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Stable",
+      "networkId": 1
+    },
+    "reward": "0x1::aptos_coin::AptosCoin",
+    "stakingAccountVersion": "1"
   }
 ]
