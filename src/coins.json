@@ -1301,5 +1301,16 @@
     "symbol": "CASH",
     "type": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
     "symbol_with_bridge": "CASH"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/CAPTOS.png",
+    "name": "CAPTOS",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "CAPTOS",
+    "type": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13::CAPTOS::CAPTOS",
+    "symbol_with_bridge": "CAPTOS"
   }
 ]
