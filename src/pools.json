@@ -561,4 +561,11 @@
     "contract": "0.5",
     "networkId": 1
   }
+   {
+    "coinX": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  }
 ]
