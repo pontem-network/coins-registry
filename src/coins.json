@@ -1323,7 +1323,7 @@
     "symbol": "WOOF",
     "type": "  0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
     "symbol_with_bridge": "WOOF"
-  }
+  },
     {
 "chainId": 1,
     "decimals": 6,
@@ -1334,7 +1334,7 @@
     "symbol": "PP",
     "type": "  0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP",
     "symbol_with_bridge": "PP"
-  }
+  },
       {
 "chainId": 1,
     "decimals": 6,
@@ -1355,8 +1355,8 @@
     "symbol": "SNZ",
     "type": "  0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418::SNZ::SNZ",
     "symbol_with_bridge": "SNZ"
-  }
-    }
+  },
+    {
   "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/BEARD.png",
@@ -1367,4 +1367,16 @@
     "type": "  0x8e36c188da866c4faccb1ace68a33cca40149d942953a6b6a9976e709396ddb8::BEARD::BEARD",
     "symbol_with_bridge": "BEARD"
   }
+   {
+  "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/RABBITOS.png",
+    "name": "RABBITOS",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "RBT",
+    "type": "  0x1fccdef89b13d4697064d4eff89d26547f2b08d194b495973642729503a7f38f::RBT::RBT",
+    "symbol_with_bridge": "RBT"
+  }
+]
 ]
