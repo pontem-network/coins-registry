@@ -1355,7 +1355,7 @@
     "symbol": "BEARD",
     "type": "  0x8e36c188da866c4faccb1ace68a33cca40149d942953a6b6a9976e709396ddb8::BEARD::BEARD",
     "symbol_with_bridge": "BEARD"
-  }
+  },
    {
   "chainId": 1,
     "decimals": 6,
@@ -1366,6 +1366,28 @@
     "symbol": "RBT",
     "type": "  0x1fccdef89b13d4697064d4eff89d26547f2b08d194b495973642729503a7f38f::RBT::RBT",
     "symbol_with_bridge": "RBT"
+  },
+    {
+  "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/ZIPO.png",
+    "name": "ZIPPO THE OG MASCOT",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "ZIPO",
+    "type": "  0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a::ZIPO::ZIPO",
+    "symbol_with_bridge": "ZIPO"
+  },
+    {
+  "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/PUPTOS.png",
+    "name": "PUPTOS",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "PUPTOS",
+    "type": "  0x2ac1304f147af6f3e3362c64f1c9c95dd84f67a8d6e300185e22c5a6f8f661af::PUPTOS::PUPTOS",
+    "symbol_with_bridge": "PUPTOS"
   }
 ]
 
