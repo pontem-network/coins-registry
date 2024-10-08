@@ -1313,17 +1313,6 @@
     "type": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13::CAPTOS::CAPTOS",
     "symbol_with_bridge": "CAPTOS"
   },
-  {
-"chainId": 1,
-    "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/Woof.png",
-    "name": "WOOF",
-    "order": 1001,
-    "source": "aptos",
-    "symbol": "WOOF",
-    "type": "  0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
-    "symbol_with_bridge": "WOOF"
-  },
     {
 "chainId": 1,
     "decimals": 6,
