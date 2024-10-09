@@ -1313,70 +1313,70 @@
     "type": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13::CAPTOS::CAPTOS",
     "symbol_with_bridge": "CAPTOS"
   },
-    {
-"chainId": 1,
+  {
+    "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/PP.png",
     "name": "PP Token",
     "order": 1001,
     "source": "aptos",
     "symbol": "PP",
-    "type": "  0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP",
+    "type": "0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP",
     "symbol_with_bridge": "PP"
   },
-      {
-"chainId": 1,
+  {
+    "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/POK.png",
     "name": "Purrfectly Okay Coin",
     "order": 1001,
     "source": "aptos",
     "symbol": "POK",
-    "type": "  0xa8c3d4ec01aa0bcaa23bac67d0c3e9d5df2d9e8b82a01ad4f8448aebf3d9a961::POK::POK",
+    "type": "0xa8c3d4ec01aa0bcaa23bac67d0c3e9d5df2d9e8b82a01ad4f8448aebf3d9a961::POK::POK",
     "symbol_with_bridge": "POK"
-  }
-  "chainId": 1,
+  },
+  {
+    "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/SNZ.png",
     "name": "Tissue",
     "order": 1001,
     "source": "aptos",
     "symbol": "SNZ",
-    "type": "  0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418::SNZ::SNZ",
+    "type": "0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418::SNZ::SNZ",
     "symbol_with_bridge": "SNZ"
   },
-    {
-  "chainId": 1,
+  {
+    "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/BEARD.png",
     "name": "$BEARD",
     "order": 1001,
     "source": "aptos",
     "symbol": "BEARD",
-    "type": "  0x8e36c188da866c4faccb1ace68a33cca40149d942953a6b6a9976e709396ddb8::BEARD::BEARD",
+    "type": "0x8e36c188da866c4faccb1ace68a33cca40149d942953a6b6a9976e709396ddb8::BEARD::BEARD",
     "symbol_with_bridge": "BEARD"
   },
-    {
-  "chainId": 1,
+  {
+    "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/ZIPO.png",
     "name": "ZIPPO THE OG MASCOT",
     "order": 1001,
     "source": "aptos",
     "symbol": "ZIPO",
-    "type": "  0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a::ZIPO::ZIPO",
+    "type": "0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a::ZIPO::ZIPO",
     "symbol_with_bridge": "ZIPO"
   },
-    {
-  "chainId": 1,
+  {
+    "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/PUPTOS.png",
     "name": "PUPTOS",
     "order": 1001,
     "source": "aptos",
     "symbol": "PUPTOS",
-    "type": "  0x2ac1304f147af6f3e3362c64f1c9c95dd84f67a8d6e300185e22c5a6f8f661af::PUPTOS::PUPTOS",
+    "type": "0x2ac1304f147af6f3e3362c64f1c9c95dd84f67a8d6e300185e22c5a6f8f661af::PUPTOS::PUPTOS",
     "symbol_with_bridge": "PUPTOS"
   }
 ]
-

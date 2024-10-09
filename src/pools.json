@@ -561,54 +561,53 @@
     "contract": "0.5",
     "networkId": 1
   },
-   {
+  {
     "coinX": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
   },
-   {
+  {
     "coinX": "0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
   },
-     {
+  {
     "coinX": "0xa8c3d4ec01aa0bcaa23bac67d0c3e9d5df2d9e8b82a01ad4f8448aebf3d9a961::POK::POK",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
   },
-   {
+  {
     "coinX": "0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418::SNZ::SNZ",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
   },
-    {
+  {
     "coinX": "0x8e36c188da866c4faccb1ace68a33cca40149d942953a6b6a9976e709396ddb8::BEARD::BEARD",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
   },
-      {
+  {
     "coinX": "0x2ac1304f147af6f3e3362c64f1c9c95dd84f67a8d6e300185e22c5a6f8f661af::PUPTOS::PUPTOS",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
   },
-   {
+  {
     "coinX": "0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a::ZIPO::ZIPO",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
   }
-  
 ]
