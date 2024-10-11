@@ -1316,7 +1316,7 @@
   {
     "chainId": 1,
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/PP.png",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/PP.PNG",
     "name": "PP Token",
     "order": 1001,
     "source": "aptos",
@@ -1389,5 +1389,27 @@
     "symbol": "ZAPT",
     "type": "0xbafd66d813a51ed6b5d2db99b18b61d2fccbc2e46979690fe84198272c59ca5f::zaptos::Zaptos",
     "symbol_with_bridge": "ZAPT"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/MEOW.png",
+    "name": "MEOW MONEY",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "MEOW",
+    "type": "0x24dc0c6bd0a98f31961589e6432a8038833128f7c802ba148172553987c379f::MEOW::MEOW",
+    "symbol_with_bridge": "MEOW"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/FOG.jpg",
+    "name": "FAG DOG COIN",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "FOG",
+    "type": "0xaf1077397a61aebda08ff61dfebd571ccdf7a777618b8d66832b5ab0656852bd::FOG::FOG",
+    "symbol_with_bridge": "FOG"
   }
 ]
