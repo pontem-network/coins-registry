@@ -1316,7 +1316,7 @@
   {
     "chainId": 1,
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/PP.png",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/PP.PNG",
     "name": "PP Token",
     "order": 1001,
     "source": "aptos",
