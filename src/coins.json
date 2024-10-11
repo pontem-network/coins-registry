@@ -1410,6 +1410,6 @@
     "source": "aptos",
     "symbol": "FOG",
     "type": "0xaf1077397a61aebda08ff61dfebd571ccdf7a777618b8d66832b5ab0656852bd::FOG::FOG",
-    "symbol_with_bridge": "MEOW"
+    "symbol_with_bridge": "FOG"
   }
 ]
