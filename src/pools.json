@@ -623,5 +623,19 @@
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
+  },
+  {
+    "coinX": "0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6::EDOG::EDOG",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a::GHO::GHO",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
   }
 ]

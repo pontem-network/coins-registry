@@ -1403,7 +1403,7 @@
   },
   {
     "chainId": 1,
-    "decimals": 8,
+    "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/FOG.jpg",
     "name": "FAG DOG COIN",
     "order": 1001,
@@ -1411,5 +1411,27 @@
     "symbol": "FOG",
     "type": "0xaf1077397a61aebda08ff61dfebd571ccdf7a777618b8d66832b5ab0656852bd::FOG::FOG",
     "symbol_with_bridge": "FOG"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/edog.png",
+    "name": "EDOG",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "EDOG",
+    "type": "0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6::EDOG::EDOG",
+    "symbol_with_bridge": "EDOG"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/ghost.png",
+    "name": "GHOST",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "GHO",
+    "type": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a::GHO::GHO",
+    "symbol_with_bridge": "GHO"
   }
 ]
