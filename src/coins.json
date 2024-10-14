@@ -1532,5 +1532,16 @@
     "symbol": "ACAT",
     "type": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
     "symbol_with_bridge": "ACAT"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/FAPTOS.png",
+    "name": "FAPTOS",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "FAPTOS",
+    "type": "0x135726730c0e4e71652a6726354f148dec46974d5c152b0042ad58b37ea3c864::FaptOS::FaptOS",
+    "symbol_with_bridge": "FAPTOS"
   }
 ]
