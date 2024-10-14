@@ -637,5 +637,12 @@
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
+  },
+  {
+    "coinX": "0x135726730c0e4e71652a6726354f148dec46974d5c152b0042ad58b37ea3c864::FaptOS::FaptOS",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
   }
 ]
