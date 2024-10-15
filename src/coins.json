@@ -1434,7 +1434,7 @@
     "type": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a::GHO::GHO",
     "symbol_with_bridge": "GHO"
   },
-   {
+  {
     "chainId": 1,
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/DogWifHair/coins-registry/refs/heads/main/src/coins-logos/DWIF.jpg",
@@ -1444,5 +1444,17 @@
     "symbol": "DWIF",
     "type": "0x10a51c8275d90165aec142e326fcd9dc2e8def57d6271a86ef38a0e5a0a8e142::DWIF::DWIF",
     "symbol_with_bridge": "DWIF"
+ },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/updog.png",
+    "name": "UPDOG",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "UPDOG",
+    "type": "0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1::UPDOG::UPDOG",
+    "symbol_with_bridge": "UPDOG"
+
   }
 ]
