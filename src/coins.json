@@ -1459,7 +1459,7 @@
   {
     "chainId": 1,
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/MOTOS.png",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/MOTOS.jpg",
     "name": "MOTOS",
     "order": 1001,
     "source": "aptos",
@@ -1470,7 +1470,7 @@
   {
     "chainId": 1,
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/NETZY.png",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/NETZY.jpg",
     "name": "The Mole Netzy",
     "order": 1001,
     "source": "aptos",
