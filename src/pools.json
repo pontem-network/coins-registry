@@ -644,5 +644,40 @@
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
+  },
+  {
+    "coinX": "0x744467880fbc1a723d8ba8437cd6de3de942789fe6611fc992de8574596c9b5c::CMT::CMT",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x68495e47585861928e07e1fc629501b06822b230508bcf05c4fc19bec9a82405::MOTOS::MOTOS",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x2f277e648b3761b65818d92f0a7c151cb38a1d33b1a8b18d4c5748bbcd9fcca5::Netzy::Netzy",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0xce1a44fa48a726258a11a499797bc38befa6bc2ef4019b686c59e0a301b1a1c8::BUBU::BUBU",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x541e21bc602730511c0b2de1dbb8e77e5e16031931a955dc988bbed3f600b510::Rice::Rice",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
   }
 ]

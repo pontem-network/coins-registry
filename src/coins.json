@@ -1444,5 +1444,60 @@
     "symbol": "UPDOG",
     "type": "0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1::UPDOG::UPDOG",
     "symbol_with_bridge": "UPDOG"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/CMT.png",
+    "name": "Cryptomolot",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "CMT",
+    "type": "0x744467880fbc1a723d8ba8437cd6de3de942789fe6611fc992de8574596c9b5c::CMT::CMT",
+    "symbol_with_bridge": "CMT"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/MOTOS.jpg",
+    "name": "MOTOS",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "MOTOS",
+    "type": "0x68495e47585861928e07e1fc629501b06822b230508bcf05c4fc19bec9a82405::MOTOS::MOTOS",
+    "symbol_with_bridge": "MOTOS"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/NETZY.jpg",
+    "name": "The Mole Netzy",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "Netzy",
+    "type": "0x2f277e648b3761b65818d92f0a7c151cb38a1d33b1a8b18d4c5748bbcd9fcca5::Netzy::Netzy",
+    "symbol_with_bridge": "Netzy"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/BUBU.png",
+    "name": "LABUBUTOS",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "BUBU",
+    "type": "0xce1a44fa48a726258a11a499797bc38befa6bc2ef4019b686c59e0a301b1a1c8::BUBU::BUBU",
+    "symbol_with_bridge": "BUBU"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/RICE.png",
+    "name": "Rice Token",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "Rice",
+    "type": "0x541e21bc602730511c0b2de1dbb8e77e5e16031931a955dc988bbed3f600b510::Rice::Rice",
+    "symbol_with_bridge": "RICE"
   }
 ]
