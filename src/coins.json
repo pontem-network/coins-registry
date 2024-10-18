@@ -1499,5 +1499,38 @@
     "symbol": "Rice",
     "type": "0x541e21bc602730511c0b2de1dbb8e77e5e16031931a955dc988bbed3f600b510::Rice::Rice",
     "symbol_with_bridge": "RICE"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/APOP.jpg",
+    "name": "Apeople Coin",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "APOP",
+    "type": "0xbd92f54e3ebf1e80a0efa05f8bbd607fc6dd00ec208c0d743ee6ba3c10f03846::APOP::APOP",
+    "symbol_with_bridge": "APOP"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/DWIF.jpg",
+    "name": "DOGWIFHAIR",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "DWIF",
+    "type": "0x10a51c8275d90165aec142e326fcd9dc2e8def57d6271a86ef38a0e5a0a8e142::DWIF::DWIF",
+    "symbol_with_bridge": "DWIF"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/ACAT.png",
+    "name": "AptoCat",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "ACAT",
+    "type": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
+    "symbol_with_bridge": "ACAT"
   }
 ]
