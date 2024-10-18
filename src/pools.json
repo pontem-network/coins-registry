@@ -679,5 +679,26 @@
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
+  }, 
+  {
+    "coinX": "0xbd92f54e3ebf1e80a0efa05f8bbd607fc6dd00ec208c0d743ee6ba3c10f03846::APOP::APOP",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x10a51c8275d90165aec142e326fcd9dc2e8def57d6271a86ef38a0e5a0a8e142::DWIF::DWIF",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
   }
 ]
