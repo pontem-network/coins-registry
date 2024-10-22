@@ -1532,5 +1532,16 @@
     "symbol": "ACAT",
     "type": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
     "symbol_with_bridge": "ACAT"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/AMAGA.jpg",
+    "name": "Aptos MAGA",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "AMAGA",
+    "type": "0xbafe0208ba2a3ea2c66a6868f9361a13f4014490e9b77fb0364c5cf55340ffbe::AMAGA::AMAGA",
+    "symbol_with_bridge": "AMAGA"
   }
 ]
