@@ -1532,5 +1532,16 @@
     "symbol": "ACAT",
     "type": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
     "symbol_with_bridge": "ACAT"
+  },
+  {
+    "chainId": 1,
+    "decimals": 9,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/burrito.png",
+    "name": "BURRITOS",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "BURRITOS",
+    "type": "0xc89f2e0a7f61424e0b951936820f0423e3f076948dcdced112b76244ed840a25::burritos_coin::BurritosCoin",
+    "symbol_with_bridge": "BURRITOS"
   }
 ]
