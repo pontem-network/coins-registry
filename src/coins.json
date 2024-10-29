@@ -1547,7 +1547,7 @@
   {
     "chainId": 1,
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/DMAGA.jpg",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/DMAGA.png",
     "name": "DMAGA",
     "order": 1001,
     "source": "aptos",
