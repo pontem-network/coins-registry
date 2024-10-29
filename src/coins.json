@@ -1543,5 +1543,16 @@
     "symbol": "AMAGA",
     "type": "0xbafe0208ba2a3ea2c66a6868f9361a13f4014490e9b77fb0364c5cf55340ffbe::AMAGA::AMAGA",
     "symbol_with_bridge": "AMAGA"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/AMAGA.jpg",
+    "name": "DMAGA",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "DMAGA",
+    "type": "0xa331c0ce4c558895772ac3e61c85fa441500e3536ecfbdefbb167698d153d6c3::DMAGA::DMAGA",
+    "symbol_with_bridge": "DMAGA"
   }
 ]
