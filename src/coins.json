@@ -500,6 +500,19 @@
   },
   {
     "chainId": 2,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdt-fa.svg",
+    "name": "Tether USD",
+    "order": 20,
+    "source": "tether",
+    "symbol": "USDt",
+    "type": "0x3e891bf81063de6d940f49fd8874810c44877eb92a27fa7dec2341eed32efccb::coin_wrapper::CoinWrapper",
+    "faType": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+    "symbol_with_bridge": "USDt",
+    "isFungibleAsset": true
+  },
+  {
+    "chainId": 2,
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/eth.svg",
     "name": "Ethereum",

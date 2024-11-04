@@ -373,6 +373,14 @@
     "networkId": 2
   },
   {
+    "coinX": "0x3e891bf81063de6d940f49fd8874810c44877eb92a27fa7dec2341eed32efccb::coin_wrapper::CoinWrapper",
+    "coinXFaType": "0x6b5b827fdf3706d2be7aa3aafd431dfa4a9009f18db9d3f4cc8b6882b295dc2f",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0",
+    "networkId": 2
+  },
+  {
     "coinX": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
