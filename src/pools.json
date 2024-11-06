@@ -373,12 +373,12 @@
     "networkId": 2
   },
   {
-    "coinX": "0x3e891bf81063de6d940f49fd8874810c44877eb92a27fa7dec2341eed32efccb::coin_wrapper::CoinWrapper",
-    "coinXFaType": "0x6b5b827fdf3706d2be7aa3aafd431dfa4a9009f18db9d3f4cc8b6882b295dc2f",
-    "coinY": "0x1::aptos_coin::AptosCoin",
+    "coinX": "0x1::aptos_coin::AptosCoin",
+    "coinY": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
+    "coinYFaType": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
     "curve": "unstable",
-    "contract": "0",
-    "networkId": 2
+    "contract": "0.5",
+    "networkId": 1
   },
   {
     "coinX": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
