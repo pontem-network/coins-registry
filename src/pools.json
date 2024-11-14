@@ -7,6 +7,20 @@
     "networkId": 1
   },
   {
+    "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+    "coinY": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
+    "curve": "stable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+    "coinY": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
+    "curve": "stable", 
+    "contract": "0.5",
+    "networkId": 1
+  }
+  {
     "coinX": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
