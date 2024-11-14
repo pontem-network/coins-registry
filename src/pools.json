@@ -19,7 +19,7 @@
     "curve": "stable", 
     "contract": "0.5",
     "networkId": 1
-  }
+  },
   {
     "coinX": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge",
     "coinY": "0x1::aptos_coin::AptosCoin",
