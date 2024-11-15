@@ -1578,5 +1578,16 @@
     "symbol": "DMAGA",
     "type": "0xa331c0ce4c558895772ac3e61c85fa441500e3536ecfbdefbb167698d153d6c3::DMAGA::DMAGA",
     "symbol_with_bridge": "DMAGA"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/obot.png",
+    "name": "OBOT",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "OBOT",
+    "type": "0x8512b34017e087c3707748869ddc317d83f3fe70ab3a162abdc055c761ca9906::OBOT::OBOT",
+    "symbol_with_bridge": "OBOT"
   }
 ]
