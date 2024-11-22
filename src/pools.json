@@ -738,7 +738,7 @@
     "networkId": 1
   },
   {
-    "coinX": "0x8512b34017e087c3707748869ddc317d83f3fe70ab3a162abdc055c761ca9906::OBOT::OBOT",
+    "coinX": "0x96baeee6d7a4a8cd712144d1225cfcb6c26d0c6fefd463bd77a878e4526c7411::hair_coin::HairCoin",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": "0.5",
