@@ -7,6 +7,20 @@
     "networkId": 1
   },
   {
+    "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+    "coinY": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
+    "curve": "stable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+    "coinY": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
+    "curve": "stable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
     "coinX": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
@@ -373,6 +387,14 @@
     "networkId": 2
   },
   {
+    "coinX": "0x1::aptos_coin::AptosCoin",
+    "coinY": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
+    "coinYFaType": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
     "coinX": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
@@ -696,6 +718,34 @@
   },
   {
     "coinX": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0xbafe0208ba2a3ea2c66a6868f9361a13f4014490e9b77fb0364c5cf55340ffbe::AMAGA::AMAGA",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0xa331c0ce4c558895772ac3e61c85fa441500e3536ecfbdefbb167698d153d6c3::DMAGA::DMAGA",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x8512b34017e087c3707748869ddc317d83f3fe70ab3a162abdc055c761ca9906::OBOT::OBOT",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
+  },
+  {
+    "coinX": "0x96baeee6d7a4a8cd712144d1225cfcb6c26d0c6fefd463bd77a878e4526c7411::hair_coin::HairCoin",
     "coinY": "0x1::aptos_coin::AptosCoin",
     "curve": "unstable",
     "contract": "0.5",

@@ -499,6 +499,19 @@
     "symbol_with_bridge": "USDT"
   },
   {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdt-fa.svg",
+    "name": "Tether USD",
+    "order": 20,
+    "source": "tether",
+    "symbol": "USDt",
+    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
+    "faType": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+    "symbol_with_bridge": "USDt",
+    "isFungibleAsset": true
+  },
+  {
     "chainId": 2,
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/eth.svg",
@@ -1532,6 +1545,61 @@
     "symbol": "ACAT",
     "type": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
     "symbol_with_bridge": "ACAT"
+  },
+  {
+    "chainId": 1,
+    "decimals": 9,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/burrito.png",
+    "name": "BURRITOS",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "BURRITOS",
+    "type": "0xc89f2e0a7f61424e0b951936820f0423e3f076948dcdced112b76244ed840a25::burritos_coin::BurritosCoin",
+    "symbol_with_bridge": "BURRITOS"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/AMAGA.jpg",
+    "name": "Aptos MAGA",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "AMAGA",
+    "type": "0xbafe0208ba2a3ea2c66a6868f9361a13f4014490e9b77fb0364c5cf55340ffbe::AMAGA::AMAGA",
+    "symbol_with_bridge": "AMAGA"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/DMAGA.png",
+    "name": "DMAGA",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "DMAGA",
+    "type": "0xa331c0ce4c558895772ac3e61c85fa441500e3536ecfbdefbb167698d153d6c3::DMAGA::DMAGA",
+    "symbol_with_bridge": "DMAGA"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/obot.png",
+    "name": "OBOT",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "OBOT",
+    "type": "0x8512b34017e087c3707748869ddc317d83f3fe70ab3a162abdc055c761ca9906::OBOT::OBOT",
+    "symbol_with_bridge": "OBOT"
+  },
+  {
+    "chainId": 1,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/hair.png",
+    "name": "Hair",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "HAIR",
+    "type": "0x96baeee6d7a4a8cd712144d1225cfcb6c26d0c6fefd463bd77a878e4526c7411::hair_coin::HairCoin",
+    "symbol_with_bridge": "HAIR"
   },
   {
     "chainId": 1,
