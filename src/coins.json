@@ -1600,5 +1600,16 @@
     "symbol": "HAIR",
     "type": "0x96baeee6d7a4a8cd712144d1225cfcb6c26d0c6fefd463bd77a878e4526c7411::hair_coin::HairCoin",
     "symbol_with_bridge": "HAIR"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/moomoo.png",
+    "name": "MOO MOO",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "MOOMOO",
+    "type": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da::MOOMOO::MOOMOO",
+    "symbol_with_bridge": "MOOMOO"
   }
 ]
