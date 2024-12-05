@@ -1611,5 +1611,16 @@
     "symbol": "FaptOS",
     "type": "0x135726730c0e4e71652a6726354f148dec46974d5c152b0042ad58b37ea3c864::FaptOS::FaptOS",
     "symbol_with_bridge": "FaptOS"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/moomoo.png",
+    "name": "MOO MOO",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "MOOMOO",
+    "type": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da::MOOMOO::MOOMOO",
+    "symbol_with_bridge": "MOOMOO"
   }
 ]
