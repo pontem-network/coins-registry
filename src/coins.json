@@ -1633,6 +1633,7 @@
     "symbol": "AMA",
     "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::wrapped_coins::WrappedAMA",
     "faType": "0xd0ab8c2f76cd640455db56ca758a9766a966c88f77920347aac1719edab1df5e",
-    "symbol_with_bridge": "AMA"
+    "symbol_with_bridge": "AMA",
+    "isFungibleAsset": true
   }
 ]
