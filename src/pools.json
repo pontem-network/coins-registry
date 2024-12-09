@@ -387,6 +387,17 @@
     "networkId": 2
   },
   {
+    "coinX": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "bin_step": 20,
+    "contract": "1",
+    "networkId": 2,
+    "solo": {
+      "coinXVault": "0xb38fef9651d40106cbfc2e284b88f75e9c8f12e62f9bd1ef91c02e1cc64752c1",
+      "coinYVault": "0x2ebf858dc3dbd279612cba431cc6fd2fdc9395a65d94583ea8e9f4fad3d9c19d"
+    }
+  },
+  {
     "coinX": "0x1::aptos_coin::AptosCoin",
     "coinY": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
     "coinYFaType": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
@@ -476,7 +487,11 @@
     "coinY": "0x1::aptos_coin::AptosCoin",
     "bin_step": 20,
     "contract": "1",
-    "networkId": 1
+    "networkId": 1,
+    "solo": {
+      "coinXVault": "0x6e24baa92d82586c89dbd02bf6aeb0939fa98ea112254e76223226f2d176c5d1",
+      "coinYVault": "0x56f5867e504864ee885a654a11f5a7dbc8bad6af1625ac75510e45affa9b10c6"
+    }
   },
   {
     "coinX": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
