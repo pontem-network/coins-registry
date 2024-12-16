@@ -808,5 +808,17 @@
     },
     "reward": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
     "stakingAccountVersion": "1"
+  },
+  {
+    "order": 21,
+    "address": "0x24202101c0407c2ba340b850b288188b2b90f4ce26649ffe1b30ae765502a72e",
+    "pool": {
+      "coinX": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
+      "coinY": "0x1::aptos_coin::AptosCoin",
+      "curve": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e::curves::Uncorrelated",
+      "networkId": 1
+    },
+    "reward": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
+    "stakingAccountVersion": "1"
   }
 ]

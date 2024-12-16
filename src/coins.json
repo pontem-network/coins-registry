@@ -1595,7 +1595,7 @@
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/hair.png",
     "name": "Hair",
-    "order": 1001,
+    "order": 3,
     "source": "aptos",
     "symbol": "HAIR",
     "type": "0x96baeee6d7a4a8cd712144d1225cfcb6c26d0c6fefd463bd77a878e4526c7411::hair_coin::HairCoin",
