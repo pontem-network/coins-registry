@@ -1635,5 +1635,16 @@
     "faType": "0xd0ab8c2f76cd640455db56ca758a9766a966c88f77920347aac1719edab1df5e",
     "symbol_with_bridge": "AMA",
     "isFungibleAsset": true
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/TOMA.png",
+    "name": "Tomarket",
+    "order": 1001,
+    "source": "aptos",
+    "symbol": "TOMA",
+    "type": "0x9d0595765a31f8d56e1d2aafc4d6c76f283c67a074ef8812d8c31bd8252ac2c3::asset::TOMA",
+    "symbol_with_bridge": "TOMA"
   }
 ]
