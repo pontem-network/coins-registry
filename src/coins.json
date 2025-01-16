@@ -340,7 +340,7 @@
   {
     "chainId": 1,
     "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/amstapt.png",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/amstapt.svg",
     "name": "Staked Aptos Coin",
     "order": 1000,
     "source": "amnis",
