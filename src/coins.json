@@ -512,6 +512,19 @@
     "isFungibleAsset": true
   },
   {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
+    "name": "USDC",
+    "order": 20,
+    "source": "aptos",
+    "symbol": "USDC",
+    "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::wrapped_coins::WrappedUSDC",
+    "faType": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+    "symbol_with_bridge": "WrappedUSDC",
+    "isFungibleAsset": true
+  },
+  {
     "chainId": 2,
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/eth.svg",
