@@ -1222,6 +1222,18 @@
   },
   {
     "caution": false,
+    "chainId": 177,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",
+    "name": "Aptos Coin",
+    "order": 1,
+    "source": "aptos",
+    "symbol": "APT",
+    "type": "0x1::aptos_coin::AptosCoin",
+    "symbol_with_bridge": "APT"
+  },
+  {
+    "caution": false,
     "chainId": 27,
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",
