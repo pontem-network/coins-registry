@@ -1234,6 +1234,30 @@
   },
   {
     "caution": false,
+    "chainId": 177,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/btc.svg",
+    "name": "Empty Coin BTC",
+    "order": 2,
+    "source": "movement",
+    "symbol": "EmptyCoinBTC",
+    "type": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::coin_btc::EmptyCoinBTC",
+    "symbol_with_bridge": "EmptyCoinBTC"
+  },
+  {
+    "caution": false,
+    "chainId": 177,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdt.svg",
+    "name": "Empty Coin USDT",
+    "order": 3,
+    "source": "movement",
+    "symbol": "EmptyCoinUSDT",
+    "type": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::coin_usdt::EmptyCoinUSDT",
+    "symbol_with_bridge": "EmptyCoinUSDT"
+  },
+  {
+    "caution": false,
     "chainId": 27,
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",

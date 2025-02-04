@@ -816,5 +816,12 @@
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 1
+  },
+  {
+    "coinX": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::coin_btc::EmptyCoinBTC",
+    "coinY": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::coin_usdt::EmptyCoinUSDT",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 177
   }
 ]
