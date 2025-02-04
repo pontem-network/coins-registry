@@ -1224,13 +1224,13 @@
     "caution": false,
     "chainId": 177,
     "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",
-    "name": "Aptos Coin",
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/movement-testnet.svg",
+    "name": "Movement",
     "order": 1,
-    "source": "aptos",
-    "symbol": "APT",
+    "source": "movement",
+    "symbol": "MOVE",
     "type": "0x1::aptos_coin::AptosCoin",
-    "symbol_with_bridge": "APT"
+    "symbol_with_bridge": "MOVE"
   },
   {
     "caution": false,
