@@ -535,6 +535,15 @@
     "type": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::ETH",
     "symbol_with_bridge": "ETH"
   },
+{
+    "source": "partners",
+    "chainId": 1,
+    "name": "CUTECHICKS",
+    "decimals": 6,
+    "symbol": "CUCHI",
+    "type": "0x8b633e663f6c78177f4cfe5761395cf9f78fd18ab81d456ee58a5d03e9af93c1::proton_ba3::PROTON_49D",
+    "order": 1000
+  },
   {
     "chainId": 2,
     "decimals": 6,
