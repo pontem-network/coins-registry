@@ -1695,8 +1695,7 @@
     "symbol": "TOMA",
     "type": "0x9d0595765a31f8d56e1d2aafc4d6c76f283c67a074ef8812d8c31bd8252ac2c3::asset::TOMA",
     "symbol_with_bridge": "TOMA"
-  }
-
+  },
   {
     "source": "aptos",
     "name": "GEM",
@@ -1708,6 +1707,4 @@
     "caution": false,
     "order": 1,
     "logo_url": "https://github.com/GEMzeitgeist/coins-registry/blob/7f25d8c98ce8025052700bc908ef5e3c6fa698b3/src/coins-logos/GEM_icon.png"
-}
-  
-]
+},
