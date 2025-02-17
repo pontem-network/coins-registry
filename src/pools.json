@@ -819,7 +819,9 @@
   },
   {
     "coinX": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::coin_btc::EmptyCoinBTC",
+    "coinXFaType": "0xf7eb12765a0399b40f00a271be84d6d967cd42cec596f5af74471edda6d83fd2",
     "coinY": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::coin_usdt::EmptyCoinUSDT",
+    "coinYFaType": "0xb806f965c78b7b8afe63ffad54204a361d2f1ca8caf79a0f81f837b14f6a4f58",
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 177
