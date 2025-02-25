@@ -1699,5 +1699,15 @@
     "symbol": "TOMA",
     "type": "0x9d0595765a31f8d56e1d2aafc4d6c76f283c67a074ef8812d8c31bd8252ac2c3::asset::TOMA",
     "symbol_with_bridge": "TOMA"
-  }
-]
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/GEM_icon.png"
+    "source": "aptos",
+    "name": "GEM",
+    "symbol": "GEM",
+    "symbol_with_bridge": "GEM"
+    "type": "0x3fb7291a814eea979045f0bdb6b128a2a4f59533edad9d792069221586b92ab5::GEM::GEM",
+    "order": 1,
+}]
