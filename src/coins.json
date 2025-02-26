@@ -1699,5 +1699,16 @@
     "symbol": "TOMA",
     "type": "0x9d0595765a31f8d56e1d2aafc4d6c76f283c67a074ef8812d8c31bd8252ac2c3::asset::TOMA",
     "symbol_with_bridge": "TOMA"
+  },
+  {
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/sidelined.webp",
+    "name": "sidelined?",
+    "order": 3,
+    "source": "aptos",
+    "symbol": "Sidelined",
+    "type": "0x9d4d8a8f1551317276bc2fbf924e7adf82b722b72f4f914dcfb6cc1811bc383f::Sidelined::Sidelined",
+    "symbol_with_bridge": "Sidelined"
   }
 ]
