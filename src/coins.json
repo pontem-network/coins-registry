@@ -1710,5 +1710,45 @@
     "symbol": "Sidelined",
     "type": "0x9d4d8a8f1551317276bc2fbf924e7adf82b722b72f4f914dcfb6cc1811bc383f::Sidelined::Sidelined",
     "symbol_with_bridge": "Sidelined"
+  },
+  {
+    "caution": false,
+    "chainId": 126,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/movement-testnet.svg",
+    "name": "Movement",
+    "order": 1,
+    "source": "movement",
+    "symbol": "MOVE",
+    "type": "0x1::aptos_coin::AptosCoin",
+    "symbol_with_bridge": "MOVE"
+  },
+  {
+    "caution": false,
+    "chainId": 126,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/weth.svg",
+    "name": "WWETH",
+    "order": 1,
+    "source": "movement",
+    "symbol": "WWETH",
+    "type": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::wweth::CoinWrapperWWETH",
+    "symbol_with_bridge": "WWETH",
+    "isFungibleAsset": true,
+    "faType": "0x560436d5e47d4e38069ddc7b800e8a25ad2bf5ba10933b093fdf9aac65694a5b"
+  },
+  {
+    "caution": false,
+    "chainId": 126,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/eth.svg",
+    "name": "EEETH",
+    "order": 1,
+    "source": "movement",
+    "symbol": "EEETH",
+    "type": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::eeeth::CoinWrapperEEETH",
+    "symbol_with_bridge": "EEETH",
+    "isFungibleAsset": true,
+    "faType": "0x44de9bb28d2ee502112c526ef3025e4be318ce582fff707d1593d2210eb090ae"
   }
 ]
