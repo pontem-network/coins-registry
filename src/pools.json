@@ -834,9 +834,9 @@
     "networkId": 1
   },
   {
-    "coinX": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::eeeth::CoinWrapperEEETH",
-    "coinXFaType": "0x44de9bb28d2ee502112c526ef3025e4be318ce582fff707d1593d2210eb090ae",
-    "coinY": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::wweth::CoinWrapperWWETH",
+    "coinX": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::eeth::CoinWrapperEETH",
+    "coinXFaType": "0x46b43beacbd01fb7230ddeb93fcc44c22b64d74a06cd9879f81e9df995c106dc",
+    "coinY": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::weth::CoinWrapperWETH",
     "coinYFaType": "0x560436d5e47d4e38069ddc7b800e8a25ad2bf5ba10933b093fdf9aac65694a5b",
     "curve": "stable",
     "contract": "0.5",
