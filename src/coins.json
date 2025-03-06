@@ -1735,7 +1735,7 @@
     "type": "0xbe1e59def39ee46741e87fd732494794fa3c69a8401eba565f439126468b4326::weth::CoinWrapperWETH",
     "symbol_with_bridge": "WETH",
     "isFungibleAsset": true,
-    "faType": "0x560436d5e47d4e38069ddc7b800e8a25ad2bf5ba10933b093fdf9aac65694a5b"
+    "faType": "0x81fbb58ec1b2ceebc6010422ef6af205d9fc885331358267b9b1ac66ba3e2ae3"
   },
   {
     "caution": false,
