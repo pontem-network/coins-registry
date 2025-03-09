@@ -1230,7 +1230,8 @@
     "source": "movement",
     "symbol": "MOVE",
     "type": "0x1::aptos_coin::AptosCoin",
-    "symbol_with_bridge": "MOVE"
+    "symbol_with_bridge": "MOVE",
+    "cmcId": 32452
   },
   {
     "caution": false,
@@ -1721,7 +1722,8 @@
     "source": "movement",
     "symbol": "MOVE",
     "type": "0x1::aptos_coin::AptosCoin",
-    "symbol_with_bridge": "MOVE"
+    "symbol_with_bridge": "MOVE",
+    "cmcId": 32452
   },
   {
     "caution": false,
