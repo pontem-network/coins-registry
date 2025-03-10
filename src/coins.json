@@ -1723,7 +1723,9 @@
     "symbol": "MOVE",
     "type": "0x1::aptos_coin::AptosCoin",
     "symbol_with_bridge": "MOVE",
-    "cmcId": 32452
+    "cmcId": 32452,
+    "isFungibleAsset": true,
+    "faType": "0x000000000000000000000000000000000000000000000000000000000000000a"
   },
   {
     "caution": false,
