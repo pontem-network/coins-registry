@@ -1782,5 +1782,18 @@
     "symbol_with_bridge": "WBTCe",
     "isFungibleAsset": true,
     "faType": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c"
+  },
+  {
+    "caution": false,
+    "chainId": 1,
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/GEM.png",
+    "name": "GEM",
+    "order": 0,
+    "source": "aptos",
+    "symbol": "GEM",
+    "type": "0x3fb7291a814eea979045f0bdb6b128a2a4f59533edad9d792069221586b92ab5::GEM::GEM",
+    "symbol_with_bridge": "GEM",
+    "isFungibleAsset": true,
   }
 ]
