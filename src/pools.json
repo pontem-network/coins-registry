@@ -918,5 +918,12 @@
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 126
+  },
+  {
+    "coinX": "0x3fb7291a814eea979045f0bdb6b128a2a4f59533edad9d792069221586b92ab5::GEM::GEM",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
   }
 ]
