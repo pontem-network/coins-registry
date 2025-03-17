@@ -918,5 +918,21 @@
     "curve": "unstable",
     "contract": "0.5",
     "networkId": 126
+  },
+  {
+    "coinX": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WBTCe",
+    "coinXFaType": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c",
+    "coinY": "0x1::aptos_coin::AptosCoin",
+    "bin_step": 100,
+    "contract": "1",
+    "networkId": 126
+  },
+  {
+    "coinX": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::MBTC",
+    "coinY": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WBTCe",
+    "coinYFaType": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c",
+    "bin_step": 2,
+    "contract": "1",
+    "networkId": 126
   }
 ]
