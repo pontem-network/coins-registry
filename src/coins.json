@@ -1784,7 +1784,7 @@
     "faType": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c"
   },
   {
-    "caution": true,
+    "caution": false,
     "chainId": 126,
     "decimals": 10,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mbtc.svg",
