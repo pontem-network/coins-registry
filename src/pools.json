@@ -929,6 +929,7 @@
   },
   {
     "coinX": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::MBTC",
+    "coinXFaType": "0x0b7400b60e249c92b6b97717e29915474d90eec3e8c510bf5675628367d39e35",
     "coinY": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WBTCe",
     "coinYFaType": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c",
     "bin_step": 2,

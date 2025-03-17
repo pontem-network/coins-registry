@@ -1782,5 +1782,19 @@
     "symbol_with_bridge": "WBTCe",
     "isFungibleAsset": true,
     "faType": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c"
+  },
+  {
+    "caution": true,
+    "chainId": 126,
+    "decimals": 10,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mbtc.svg",
+    "name": "mBTC",
+    "order": 0,
+    "source": "aptos",
+    "symbol": "mBTC",
+    "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::MBTC",
+    "symbol_with_bridge": "mBTC",
+    "isFungibleAsset": true,
+    "faType": "0x0b7400b60e249c92b6b97717e29915474d90eec3e8c510bf5675628367d39e35"
   }
 ]
