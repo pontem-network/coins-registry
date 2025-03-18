@@ -935,5 +935,29 @@
     "bin_step": 2,
     "contract": "1",
     "networkId": 126
+  },
+  {
+    "coinX": "0x1::aptos_coin::AptosCoin",
+    "coinY": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WETHe",
+    "coinYFaType": "0x908828f4fb0213d4034c3ded1630bbd904e8a3a6bf3c63270887f0b06653a376",
+    "bin_step": 100,
+    "contract": "1",
+    "networkId": 126
+  },
+  {
+    "coinX": "0x1::aptos_coin::AptosCoin",
+    "coinY": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::USDCe",
+    "coinYFaType": "0x83121c9f9b0527d1f056e21a950d6bf3b9e9e2e8353d0e95ccea726713cbea39",
+    "bin_step": 100,
+    "contract": "1",
+    "networkId": 126
+  },
+  {
+    "coinX": "0x1::aptos_coin::AptosCoin",
+    "coinY": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::USDTe",
+    "coinYFaType": "0x447721a30109c662dde9c73a0c2c9c9c459fb5e5a9c92f03c50fa69737f5d08d",
+    "bin_step": 100,
+    "contract": "1",
+    "networkId": 126
   }
 ]
