@@ -959,5 +959,23 @@
     "bin_step": 100,
     "contract": "1",
     "networkId": 126
+  },
+  {
+    "coinX": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WEETH",
+    "coinXFaType": "0xe956f5062c3b9cba00e82dc775d29acf739ffa1e612e619062423b58afdbf035",
+    "coinY": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WETHe",
+    "coinYFaType": "0x908828f4fb0213d4034c3ded1630bbd904e8a3a6bf3c63270887f0b06653a376",
+    "curve": "stable",
+    "contract": "0.5",
+    "networkId": 126
+  },
+  {
+    "coinX": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::RSETH",
+    "coinXFaType": "0x51ffc9885233adf3dd411078cad57535ed1982013dc82d9d6c433a55f2e0035d",
+    "coinY": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WETHe",
+    "coinYFaType": "0x908828f4fb0213d4034c3ded1630bbd904e8a3a6bf3c63270887f0b06653a376",
+    "curve": "stable",
+    "contract": "0.5",
+    "networkId": 126
   }
 ]

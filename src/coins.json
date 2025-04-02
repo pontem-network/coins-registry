@@ -1796,5 +1796,31 @@
     "symbol_with_bridge": "mBTC",
     "isFungibleAsset": true,
     "faType": "0x0b7400b60e249c92b6b97717e29915474d90eec3e8c510bf5675628367d39e35"
+  },
+  {
+    "chainId": 126,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/weeth.svg",
+    "name": "Wrapped Ether",
+    "order": 0,
+    "source": "aptos",
+    "symbol": "WEETH",
+    "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WEETH",
+    "symbol_with_bridge": "WEETH",
+    "isFungibleAsset": true,
+    "faType": "0xe956f5062c3b9cba00e82dc775d29acf739ffa1e612e619062423b58afdbf035"
+  },
+  {
+    "chainId": 126,
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/rseth.svg",
+    "name": "RSETH",
+    "order": 0,
+    "source": "aptos",
+    "symbol": "RSETH",
+    "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::RSETH",
+    "symbol_with_bridge": "RSETH",
+    "isFungibleAsset": true,
+    "faType": "0x51ffc9885233adf3dd411078cad57535ed1982013dc82d9d6c433a55f2e0035d"
   }
 ]
