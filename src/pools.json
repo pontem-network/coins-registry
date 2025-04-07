@@ -977,5 +977,14 @@
     "curve": "stable",
     "contract": "0.5",
     "networkId": 126
+  },
+  {
+    "coinX": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::SBTC",
+    "coinXFaType": "0x95c0fd13373299ada1b9f09ff62473ab8b3908e6a30011730210c141dffdc990",
+    "coinY": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WBTCe",
+    "coinYFaType": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c",
+    "curve": "stable",
+    "contract": "0.5",
+    "networkId": 126
   }
 ]
