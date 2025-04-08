@@ -1833,6 +1833,7 @@
     "symbol": "SBTC",
     "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::SBTC",
     "faType": "0x95c0fd13373299ada1b9f09ff62473ab8b3908e6a30011730210c141dffdc990",
+    "isFungibleAsset": true,
     "symbol_with_bridge": "SBTC"
   }
 ]
