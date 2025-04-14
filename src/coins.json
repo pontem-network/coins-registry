@@ -1717,12 +1717,11 @@
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/GEM.png",
     "name": "GEM",
-    "order": 0,
+    "order": 1001,
     "source": "aptos",
     "symbol": "GEM",
     "type": "0x3fb7291a814eea979045f0bdb6b128a2a4f59533edad9d792069221586b92ab5::GEM::GEM",
-    "symbol_with_bridge": "GEM",
-    "isFungibleAsset": true
+    "symbol_with_bridge": "GEM"
   },
   {
     "caution": false,
