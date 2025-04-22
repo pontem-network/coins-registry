@@ -9,7 +9,8 @@
     "source": "aptos",
     "symbol": "LSD",
     "type": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD",
-    "symbol_with_bridge": "LSD"
+    "symbol_with_bridge": "LSD",
+    "cmcId": 22262
   },
   {
     "caution": false,
@@ -21,7 +22,8 @@
     "source": "aptos",
     "symbol": "APT",
     "type": "0x1::aptos_coin::AptosCoin",
-    "symbol_with_bridge": "APT"
+    "symbol_with_bridge": "APT",
+    "cmcId": 21794
   },
   {
     "chainId": 1,
@@ -33,7 +35,8 @@
     "symbol": "doodoo",
     "type": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
     "unsafe": false,
-    "symbol_with_bridge": "doodoo"
+    "symbol_with_bridge": "doodoo",
+    "cmcId": 28881
   },
   {
     "caution": false,
@@ -57,7 +60,8 @@
     "source": "partners",
     "symbol": "SHRIMP",
     "type": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
-    "symbol_with_bridge": "SHRIMP"
+    "symbol_with_bridge": "SHRIMP",
+    "cmcId": 29921
   },
   {
     "chainId": 1,
@@ -68,7 +72,8 @@
     "source": "layerzero",
     "symbol": "USDC",
     "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
-    "symbol_with_bridge": "zUSDC"
+    "symbol_with_bridge": "zUSDC",
+    "cmcId": 3408
   },
   {
     "chainId": 1,
@@ -79,7 +84,8 @@
     "source": "wormhole",
     "symbol": "USDC",
     "type": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
-    "symbol_with_bridge": "wUSDC"
+    "symbol_with_bridge": "wUSDC",
+    "cmcId": 3408
   },
   {
     "chainId": 1,
@@ -90,7 +96,8 @@
     "source": "celer",
     "symbol": "USDC",
     "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin",
-    "symbol_with_bridge": "ceUSDC"
+    "symbol_with_bridge": "ceUSDC",
+    "cmcId": 3408
   },
   {
     "chainId": 1,
@@ -101,7 +108,8 @@
     "source": "layerzero",
     "symbol": "USDT",
     "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
-    "symbol_with_bridge": "zUSDT"
+    "symbol_with_bridge": "zUSDT",
+    "cmcId": 825
   },
   {
     "chainId": 1,
@@ -112,7 +120,8 @@
     "source": "wormhole",
     "symbol": "USDT",
     "type": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
-    "symbol_with_bridge": "wUSDT"
+    "symbol_with_bridge": "wUSDT",
+    "cmcId": 825
   },
   {
     "chainId": 1,
@@ -123,7 +132,8 @@
     "source": "celer",
     "symbol": "USDT",
     "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdtCoin",
-    "symbol_with_bridge": "ceUSDT"
+    "symbol_with_bridge": "ceUSDT",
+    "cmcId": 825
   },
   {
     "chainId": 1,
@@ -134,7 +144,8 @@
     "source": "celer",
     "symbol": "DAI",
     "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::DaiCoin",
-    "symbol_with_bridge": "ceDAI"
+    "symbol_with_bridge": "ceDAI",
+    "cmcId": 4943
   },
   {
     "chainId": 1,
@@ -145,7 +156,8 @@
     "source": "wormhole",
     "symbol": "BTC",
     "type": "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T",
-    "symbol_with_bridge": "wWBTC"
+    "symbol_with_bridge": "wWBTC",
+    "cmcId": 1
   },
   {
     "chainId": 1,
@@ -156,7 +168,8 @@
     "source": "celer",
     "symbol": "WBTC",
     "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WbtcCoin",
-    "symbol_with_bridge": "ceWBTC"
+    "symbol_with_bridge": "ceWBTC",
+    "cmcId": 3717
   },
   {
     "chainId": 1,
@@ -167,7 +180,8 @@
     "source": "layerzero",
     "symbol": "WETH",
     "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
-    "symbol_with_bridge": "zWETH"
+    "symbol_with_bridge": "zWETH",
+    "cmcId": 2396
   },
   {
     "chainId": 1,
@@ -178,7 +192,8 @@
     "source": "wormhole",
     "symbol": "WETH",
     "type": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T",
-    "symbol_with_bridge": "wWETH"
+    "symbol_with_bridge": "wWETH",
+    "cmcId": 2396
   },
   {
     "chainId": 1,
@@ -189,7 +204,8 @@
     "source": "celer",
     "symbol": "WETH",
     "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WethCoin",
-    "symbol_with_bridge": "ceWETH"
+    "symbol_with_bridge": "ceWETH",
+    "cmcId": 2396
   },
   {
     "chainId": 1,
@@ -200,7 +216,8 @@
     "source": "layerzero",
     "symbol": "WBTC",
     "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WBTC",
-    "symbol_with_bridge": "zWBTC"
+    "symbol_with_bridge": "zWBTC",
+    "cmcId": 3717
   },
   {
     "chainId": 1,
@@ -222,7 +239,8 @@
     "source": "celer",
     "symbol": "BNB",
     "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BnbCoin",
-    "symbol_with_bridge": "ceBNB"
+    "symbol_with_bridge": "ceBNB",
+    "cmcId": 1839
   },
   {
     "chainId": 1,
@@ -233,7 +251,8 @@
     "source": "wormhole",
     "symbol": "SOL",
     "type": "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T",
-    "symbol_with_bridge": "wSOL"
+    "symbol_with_bridge": "wSOL",
+    "cmcId": 5426
   },
   {
     "chainId": 1,
@@ -244,7 +263,8 @@
     "source": "partners",
     "symbol": "THL",
     "type": "0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
-    "symbol_with_bridge": "THL"
+    "symbol_with_bridge": "THL",
+    "cmcId": 24268
   },
   {
     "chainId": 1,
@@ -266,7 +286,8 @@
     "source": "partners",
     "symbol": "stAPT",
     "type": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
-    "symbol_with_bridge": "stAPT"
+    "symbol_with_bridge": "stAPT",
+    "cmcId": 22290
   },
   {
     "caution": false,
@@ -278,7 +299,8 @@
     "source": "partners",
     "symbol": "MOVE",
     "type": "0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin",
-    "symbol_with_bridge": "MOVE"
+    "symbol_with_bridge": "MOVE",
+    "cmcId": 32452
   },
   {
     "caution": true,
@@ -290,7 +312,8 @@
     "source": "partners",
     "symbol": "MOJO",
     "type": "0x881ac202b1f1e6ad4efcff7a1d0579411533f2502417a19211cfc49751ddb5f4::coin::MOJO",
-    "symbol_with_bridge": "MOJO"
+    "symbol_with_bridge": "MOJO",
+    "cmcId": 1212
   },
   {
     "chainId": 1,
@@ -312,7 +335,8 @@
     "source": "partners",
     "symbol": "ALT",
     "type": "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::aptos_launch_token::AptosLaunchToken",
-    "symbol_with_bridge": "ALT"
+    "symbol_with_bridge": "ALT",
+    "cmcId": 22065
   },
   {
     "caution": true,
@@ -324,7 +348,8 @@
     "source": "partners",
     "symbol": "ABEL",
     "type": "0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin",
-    "symbol_with_bridge": "ABEL"
+    "symbol_with_bridge": "ABEL",
+    "cmcId": 22959
   },
   {
     "chainId": 1,
@@ -346,7 +371,8 @@
     "source": "amnis",
     "symbol": "stAPT",
     "type": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
-    "symbol_with_bridge": "amStApt"
+    "symbol_with_bridge": "amStApt",
+    "cmcId": 22290
   },
   {
     "caution": false,
@@ -358,7 +384,8 @@
     "source": "partners",
     "symbol": "APTOGE",
     "type": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge",
-    "symbol_with_bridge": "APTOGE"
+    "symbol_with_bridge": "APTOGE",
+    "cmcId": 22383
   },
   {
     "caution": true,
@@ -381,7 +408,8 @@
     "source": "partners",
     "symbol": "CAKE",
     "type": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
-    "symbol_with_bridge": "CAKE"
+    "symbol_with_bridge": "CAKE",
+    "cmcId": 7186
   },
   {
     "chainId": 1,
@@ -392,7 +420,8 @@
     "source": "partners",
     "symbol": "USDA",
     "type": "0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA",
-    "symbol_with_bridge": "USDA"
+    "symbol_with_bridge": "USDA",
+    "cmcId": 5058
   },
   {
     "chainId": 1,
@@ -403,7 +432,8 @@
     "source": "partners",
     "symbol": "tAPT",
     "type": "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin",
-    "symbol_with_bridge": "tAPT"
+    "symbol_with_bridge": "tAPT",
+    "cmcId": 22412
   },
   {
     "chainId": 1,
@@ -438,7 +468,8 @@
     "source": "multichain",
     "symbol": "USDC",
     "type": "0xd6d6372c8bde72a7ab825c00b9edd35e643fb94a61c55d9d94a9db3010098548::USDC::Coin",
-    "symbol_with_bridge": "multiUSDC"
+    "symbol_with_bridge": "multiUSDC",
+    "cmcId": 3408
   },
   {
     "caution": false,
@@ -450,7 +481,8 @@
     "source": "partners",
     "symbol": "PROPS",
     "type": "0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099::propbase_coin::PROPS",
-    "symbol_with_bridge": "PROPS"
+    "symbol_with_bridge": "PROPS",
+    "cmcId": 28385
   },
   {
     "caution": false,
@@ -462,7 +494,8 @@
     "source": "partners",
     "symbol": "MBX",
     "type": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX",
-    "symbol_with_bridge": "MBX"
+    "symbol_with_bridge": "MBX",
+    "cmcId": 18895
   },
   {
     "caution": false,
@@ -474,7 +507,8 @@
     "source": "aptos",
     "symbol": "APT",
     "type": "0x1::aptos_coin::AptosCoin",
-    "symbol_with_bridge": "APT"
+    "symbol_with_bridge": "APT",
+    "cmcId": 21794
   },
   {
     "chainId": 2,
@@ -485,7 +519,8 @@
     "source": "pontem",
     "symbol": "BTC",
     "type": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
-    "symbol_with_bridge": "BTC"
+    "symbol_with_bridge": "BTC",
+    "cmcId": 1
   },
   {
     "chainId": 2,
@@ -496,7 +531,8 @@
     "source": "pontem",
     "symbol": "USDT",
     "type": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
-    "symbol_with_bridge": "USDT"
+    "symbol_with_bridge": "USDT",
+    "cmcId": 825
   },
   {
     "chainId": 1,
@@ -509,7 +545,8 @@
     "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
     "faType": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
     "symbol_with_bridge": "WrappedUSDT",
-    "isFungibleAsset": true
+    "isFungibleAsset": true,
+    "cmcId": 825
   },
   {
     "chainId": 1,
@@ -522,7 +559,8 @@
     "type": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::wrapped_coins::WrappedUSDC",
     "faType": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
     "symbol_with_bridge": "WrappedUSDC",
-    "isFungibleAsset": true
+    "isFungibleAsset": true,
+    "cmcId": 3408
   },
   {
     "chainId": 2,
@@ -533,7 +571,8 @@
     "source": "pontem",
     "symbol": "ETH",
     "type": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::ETH",
-    "symbol_with_bridge": "ETH"
+    "symbol_with_bridge": "ETH",
+    "cmcId": 1027
   },
   {
     "chainId": 2,
@@ -544,7 +583,8 @@
     "source": "pontem",
     "symbol": "USDC",
     "type": "0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::USDC",
-    "symbol_with_bridge": "USDC"
+    "symbol_with_bridge": "USDC",
+    "cmcId": 3408
   },
   {
     "chainId": 2,
@@ -555,7 +595,8 @@
     "source": "pontem",
     "symbol": "DAI",
     "type": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::DAI",
-    "symbol_with_bridge": "DAI"
+    "symbol_with_bridge": "DAI",
+    "cmcId": 4943
   },
   {
     "caution": false,
@@ -566,7 +607,8 @@
     "order": 51,
     "symbol": "ETH",
     "type": "0x1::native_coin::NativeCoin",
-    "symbol_with_bridge": "ETH"
+    "symbol_with_bridge": "ETH",
+    "cmcId": 1027
   },
   {
     "chainId": 5,
@@ -576,7 +618,8 @@
     "order": 52,
     "symbol": "USDT",
     "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::USDT",
-    "symbol_with_bridge": "USDT"
+    "symbol_with_bridge": "USDT",
+    "cmcId": 825
   },
   {
     "chainId": 5,
@@ -586,7 +629,8 @@
     "order": 53,
     "symbol": "BTC",
     "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::BTC",
-    "symbol_with_bridge": "BTC"
+    "symbol_with_bridge": "BTC",
+    "cmcId": 1
   },
   {
     "chainId": 1,
@@ -669,7 +713,8 @@
     "symbol": "DTO",
     "type": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::ditto_discount_coin::DittoDiscountCoin",
     "unsafe": true,
-    "symbol_with_bridge": "DTO"
+    "symbol_with_bridge": "DTO",
+    "cmcId": 13014
   },
   {
     "chainId": 1,
@@ -777,7 +822,8 @@
     "symbol": "GARI",
     "type": "0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T",
     "unsafe": false,
-    "symbol_with_bridge": "GARI"
+    "symbol_with_bridge": "GARI",
+    "cmcId": 12969
   },
   {
     "chainId": 1,
@@ -812,7 +858,8 @@
     "source": "wormhole",
     "symbol": "DAI",
     "type": "0x407a220699982ebb514568d007938d2447d33667e4418372ffec1ddb24491b6c::coin::T",
-    "symbol_with_bridge": "DAI"
+    "symbol_with_bridge": "DAI",
+    "cmcId": 4943
   },
   {
     "chainId": 1,
@@ -1062,7 +1109,8 @@
     "source": "aptos",
     "symbol": "APTS",
     "type": "0x1fc2f33ab6b624e3e632ba861b755fd8e61d2c2e6cf8292e415880b4c198224d::apt20::APTS",
-    "symbol_with_bridge": "APTS"
+    "symbol_with_bridge": "APTS",
+    "cmcId": 22920
   },
   {
     "chainId": 1,
@@ -1141,7 +1189,8 @@
     "source": "aptos",
     "symbol": "RENA",
     "type": "0x4ed27736e724e403f9b4645ffef0ae86fd149503f45b37c428ffabd7e46e5b05::core::RenegadeCoin",
-    "symbol_with_bridge": "RENA"
+    "symbol_with_bridge": "RENA",
+    "cmcId": 12307
   },
   {
     "chainId": 1,
@@ -1174,7 +1223,8 @@
     "source": "aptos",
     "symbol": "Donk",
     "type": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
-    "symbol_with_bridge": "Donk"
+    "symbol_with_bridge": "Donk",
+    "cmcId": 9340
   },
   {
     "chainId": 1,
@@ -1271,7 +1321,8 @@
     "source": "aptos",
     "symbol": "APT",
     "type": "0x1::aptos_coin::AptosCoin",
-    "symbol_with_bridge": "APT"
+    "symbol_with_bridge": "APT",
+    "cmcId": 21794
   },
   {
     "chainId": 27,
@@ -1281,7 +1332,8 @@
     "order": 51,
     "symbol": "WETH",
     "type": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WETH",
-    "symbol_with_bridge": "WETH"
+    "symbol_with_bridge": "WETH",
+    "cmcId": 2396
   },
   {
     "chainId": 27,
@@ -1291,7 +1343,8 @@
     "order": 52,
     "symbol": "USDT",
     "type": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
-    "symbol_with_bridge": "USDT"
+    "symbol_with_bridge": "USDT",
+    "cmcId": 825
   },
   {
     "chainId": 27,
@@ -1301,7 +1354,8 @@
     "order": 53,
     "symbol": "WBTC",
     "type": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WBTC",
-    "symbol_with_bridge": "WBTC"
+    "symbol_with_bridge": "WBTC",
+    "cmcId": 3717
   },
   {
     "chainId": 27,
@@ -1312,7 +1366,8 @@
     "source": "pontem",
     "symbol": "DAI",
     "type": "0x45a6dce5d868431d7f0c224a0122e64372eeb1697309529c9aaa94a97e9d331e::coins::DAI",
-    "symbol_with_bridge": "DAI"
+    "symbol_with_bridge": "DAI",
+    "cmcId": 4943
   },
   {
     "chainId": 27,
@@ -1323,7 +1378,8 @@
     "source": "pontem",
     "symbol": "USDC",
     "type": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDC",
-    "symbol_with_bridge": "USDC"
+    "symbol_with_bridge": "USDC",
+    "cmcId": 3408
   },
   {
     "chainId": 1,
@@ -1750,7 +1806,8 @@
     "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::USDCe",
     "symbol_with_bridge": "USDC.e",
     "isFungibleAsset": true,
-    "faType": "0x83121c9f9b0527d1f056e21a950d6bf3b9e9e2e8353d0e95ccea726713cbea39"
+    "faType": "0x83121c9f9b0527d1f056e21a950d6bf3b9e9e2e8353d0e95ccea726713cbea39",
+    "cmcId": 18852
   },
   {
     "caution": false,
@@ -1764,7 +1821,8 @@
     "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::USDTe",
     "symbol_with_bridge": "USDT.e",
     "isFungibleAsset": true,
-    "faType": "0x447721a30109c662dde9c73a0c2c9c9c459fb5e5a9c92f03c50fa69737f5d08d"
+    "faType": "0x447721a30109c662dde9c73a0c2c9c9c459fb5e5a9c92f03c50fa69737f5d08d",
+    "cmcId": 21763
   },
   {
     "caution": false,
@@ -1778,7 +1836,8 @@
     "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WETHe",
     "symbol_with_bridge": "WETH.e",
     "isFungibleAsset": true,
-    "faType": "0x908828f4fb0213d4034c3ded1630bbd904e8a3a6bf3c63270887f0b06653a376"
+    "faType": "0x908828f4fb0213d4034c3ded1630bbd904e8a3a6bf3c63270887f0b06653a376",
+    "cmcId": 2396
   },
   {
     "caution": false,
@@ -1792,7 +1851,8 @@
     "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WBTCe",
     "symbol_with_bridge": "WBTC.e",
     "isFungibleAsset": true,
-    "faType": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c"
+    "faType": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c",
+    "cmcId": 3717
   },
   {
     "caution": false,
@@ -1819,7 +1879,8 @@
     "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::WEETH",
     "symbol_with_bridge": "WEETH",
     "isFungibleAsset": true,
-    "faType": "0xe956f5062c3b9cba00e82dc775d29acf739ffa1e612e619062423b58afdbf035"
+    "faType": "0xe956f5062c3b9cba00e82dc775d29acf739ffa1e612e619062423b58afdbf035",
+    "cmcId": 28695
   },
   {
     "chainId": 126,
@@ -1832,7 +1893,8 @@
     "type": "0x4763c5cfde8517f48e930f7ece14806d75b98ce31b0b4eab99f49a067f5b5ef2::wrapped::RSETH",
     "symbol_with_bridge": "RSETH",
     "isFungibleAsset": true,
-    "faType": "0x51ffc9885233adf3dd411078cad57535ed1982013dc82d9d6c433a55f2e0035d"
+    "faType": "0x51ffc9885233adf3dd411078cad57535ed1982013dc82d9d6c433a55f2e0035d",
+    "cmcId": 29242
   },
   {
     "chainId": 126,
