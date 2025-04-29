@@ -42,7 +42,7 @@ There is a coins list in coins.json. One coin can be presented as follows:
 
 ### Fields Description
 
-```source``` - enum data type with strict value check. If you’d like to add the new value into it, fill the form. Usually source is the name of a partner's company to add many coins into the list. We support now following sources: 
+```source``` - enum data type with strict value check. If you'd like to add the new value into it, fill the form. Usually source is the name of a partner's company to add many coins into the list. We support now following sources: 
 
 * ```aptos``` - for the native Aptos Coin.
 * ```partners``` - for other coins.
@@ -112,6 +112,11 @@ There is a coins list in coins.json. One coin can be presented as follows:
 ## Contribution
 
 You are welcome to fork the current repository and do a PR. 
+
+To publish a new version:
+1. Run `npm version patch|minor|major` to bump version
+2. Push changes and tag: `git push && git push --tags`
+3. The GitHub Action will automatically publish to npm and create a release
 
 The current repository maintaining under MIT license.
 

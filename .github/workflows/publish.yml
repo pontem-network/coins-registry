@@ -2,8 +2,8 @@ name: Publish
 
 on:
   push:
-    branches:
-      - main
+    tags:
+      - 'v*.*.*'
 
 jobs:
   publish:
@@ -53,7 +53,7 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        current_version=${{ steps.version_check.outputs.current_version }}
+        current_version=$(jq -r '.version' package.json)
         gh release create "v$current_version" \
           --title "Release v$current_version" \
           --generate-notes
