@@ -461,6 +461,12 @@
     "contract": "0",
     "networkId": 2
   },
+{
+        "coinX": "0x8b633e663f6c78177f4cfe5761395cf9f78fd18ab81d456ee58a5d03e9af93c1::proton_ba3::PROTON_49D",
+        "coinY": "0x1::aptos_coin::AptosCoin",
+        "curve": "uncorrelated",
+        "networkId": 1
+    },
   {
     "coinX": "0x808b4ffe04011cd20327a910518b4bff661f73fa907e9fc41ad690f84fa6f83e::asset::USDC",
     "coinY": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
