@@ -993,5 +993,13 @@
     "curve": "stable",
     "contract": "0.5",
     "networkId": 126
+  },
+  {
+    "coinX": "0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099::propbase_coin::PROPS",
+    "coinY": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::wrapped_coins::WrappedUSDC",
+    "coinYFaType": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+    "curve": "unstable",
+    "contract": "0.5",
+    "networkId": 1
   }
 ]
